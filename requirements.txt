@@ -1,0 +1,11 @@
+numpy
+matplotlib
+requests
+re
+pandas
+urllib.request
+camelot
+
+Dependencies (for Camelot):
+Ghostscript
+Tkinter
