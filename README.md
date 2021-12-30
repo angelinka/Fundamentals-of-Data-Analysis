@@ -2,18 +2,25 @@
 
 ***
 
-## This repository was created to complete the assessment for Fundamentals of Data Analysis course and to learn how to use Jupyter notebooks.
+### Description
+This repository was created to complete the assessment for Fundamentals of Data Analysis course with help of Jupyter notebooks.
+
+There are two main files in this repository: 
+**pyplot.ipynb** provides an overview of the matplotlib.pyplot Python package by demonstrating how to create a simple plot. It also explains in detail how to create 3 different types of plots: 'bmh' style histogram, bar chart on polar axis and hexagonal binned plot.
+**cao.ipynb** demonstrates how to load and read points from Central Applications Office (CAO) into pandas data frame for years 2021, 2020 and 2019. As for each of those years information on cao websites is stored in different formats (html, excel and pdf) different packages and technics are used to extract it. A comparison and analyses of the data provided with help of various plots.
 
 You can view the notebook in static form by clicking the following image:
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]
-(https://nbviewer.jupyter.org/github/angelinka/Fundamentals-of-Data-Analysis/blob/main/trying-numpy.ipynb)
 
-You can view the notebook in dynamic for by clicking the following image:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/angelinka/Fundamentals-of-Data-Analysis/blob/main/trying-numpy.ipynb)
+
+You can view the notebook in dynamic form by clicking the following image:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/angelinka/Fundamentals-of-Data-Analysis.git/HEAD?labpath=pyplot.ipynb)
 
 ## How to run the notebook
-1. Download [Anaconda](). If not using Anaconda can istall packages via pip install/homebrew install (Example: pip install matplotlib)
-2. Download [cmder]() if using Windows.
-3. Run `jupyter notebook` or `jupyter lab` from command line.
+You need to run this notebook in python environment (please refer to packages and dependencies in requirements.txt file) the easiest way to do that is to install Anaconda
+1. Download [Anaconda](https://docs.anaconda.com/anaconda/install/index.html). If not using Anaconda can install packages via ***pip install / homebrew install*** (Example: pip install matplotlib)
+2. Download [cmder](https://cmder.net) if using Windows. Or use Terminal if on macOS or Linux
+3. Run `jupyter notebook` or `jupyter lab` from command line. It's a web application which runs on your local machine (you will be able to see the server running in Terminal/cmder). To stop the application running press control+c and then type 'y' to confirm.
 4. 
 
