@@ -6,6 +6,5 @@ pandas
 urllib.request
 camelot
 
-Dependencies (for Camelot):
 Ghostscript
 Tkinter
