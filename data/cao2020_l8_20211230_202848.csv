@@ -1,0 +1,1028 @@
+,title,code,pointsR1,pointsR2
+0,International Business,AC120,209,nan
+1,Liberal Arts,AC137,252,nan
+2,"First Year Art & Design (Common Entry,portfolio)",AD101,,nan
+3,Graphic Design and Moving Image Design (portfolio),AD102,,nan
+4,Textile & Surface Design and Jewellery & Objects (portfolio),AD103,,nan
+5,"Education & Design or Fine Art (Second Level Teaching,portfolio))",AD202,,nan
+6,Fine Art (portfolio),AD204,,nan
+7,Fashion Design (portfolio),AD211,,nan
+8,Product Design (portfolio),AD212,,nan
+9,Visual Culture,AD215,377,320
+10,Illustration (portfolio),AD217,,nan
+11,Interaction Design (portfolio),AD222,,nan
+12,Software Design with Virtual Reality and Gaming,AL801,303,nan
+13,Software Design with Artificial Intelligence for Cloud Computing,AL802,332,nan
+14,Software Design with Mobile Apps and Connected Devices,AL803,337,nan
+15,Computer Engineering with Network Infrastructure,AL805,333,nan
+16,Quantity Surveying,AL810,319,nan
+17,Civil Engineering,AL811,320,nan
+18,Mechanical and Polymer Engineering,AL820,308,nan
+19,General Nursing,AL830,442,nan
+20,Psychiatric Nursing,AL832,387,384
+21,Nutrition and Health Science,AL836,334,nan
+22,Sports Science with Exercise Physiology,AL837,351,nan
+23,Biotechnology,AL838,307,nan
+24,Microbiology,AL839,325,nan
+25,Pharmaceutical Sciences,AL840,347,nan
+26,Athletic and Rehabilitation Therapy,AL841,430,nan
+27,Bioveterinary Science,AL842,313,nan
+28,Physical Activity and Health Science,AL843,306,nan
+29,Business,AL850,309,nan
+30,Business and Law,AL851,295,nan
+31,Accounting,AL852,309,nan
+32,Sport Management (with international placement),AL854,302,299
+33,Hospitality Management (with international placement),AL855,308,nan
+34,Digital Marketing,AL857,304,nan
+35,Social Care Practice,AL860,300,nan
+36,Animation and Illustration (portfolio),AL861,578,nan
+37,Graphic and Digital Design (portfolio),AL863,781,nan
+38,Early Years Care and Education,AL864,307,nan
+39,Applied Psychology,AL870,418,nan
+40,"Education, Home Economics and Biology - with concurrent Teacher Ed",AS001,510,nan
+41,"Education, Home Economics and Religious Ed - with concurrent Teacher Ed",AS002,441,434
+42,"Education, Home Economics and Irish - with concurrent Teacher Ed",AS003,440,440
+43,"Nutrition, Food and Business Management",AS051,328,317
+44,Home Economics,AS054,408,398
+45,General Nursing,AS110,419,nan
+46,Intellectual Disability Nursing,AS130,336,328
+47,Counselling and Psychotherapy,CI110,310,nan
+48,Counselling and Addiction Studies,CI111,301,nan
+49,Counselling and Youth Studies,CI112,311,nan
+50,Arts - 3 years,CK101,300,nan
+51,Social Science,CK102,412,nan
+52,Arts with Music - 3 or 4 years (BMus or Chinese/European/Int`l Pathway),CK104,302,nan
+53,Film and Screen Media - 3 years or 4 years (International Pathway),CK105,368,337
+54,Geographical and Archaeological Sciences - 3 or 4 years (Int`l Pathway),CK107,328,nan
+55,Arts International - 4 years,CK108,401,nan
+56,English - 3 years or 4 years (International Pathway),CK109,318,nan
+57,World Languages,CK110,452,433
+58,Early Years and Childhood Studies,CK111,419,nan
+59,Theatre and Performative Practices - 3 or 4 years (Int`l Pathway),CK112,330,nan
+60,Criminology - 3 years or 4 years (International Pathway),CK113,423,nan
+61,Social Science (Youth and Community Work) - 3 years,CK114,nan,nan
+62,Social Work - Mature Applicants only,CK115,nan,nan
+63,Digital Humanities and IT - 3 or 4 years (Work Exper. or Int`l Pathway),CK118,336,nan
+64,Applied Psychology,CK120,533,532
+65,Psychology and Computing - 3 or 4 years (Work Experience Pathway),CK121,466,nan
+66,Government and Political Science,CK122,337,328
+67,Anthropology,CK123,308,nan
+68,Education - Gaeilge,CK124,463,462
+69,Sports Studies and Physical Education,CK125,510,509
+70,Commerce,CK201,477,nan
+71,Accounting,CK202,509,nan
+72,Business Information Systems,CK203,430,nan
+73,Finance,CK204,556,nan
+74,Commerce (International) with French,CK205,445,nan
+75,Commerce (International) with German,CK206,420,418
+76,Commerce (International) with Italian,CK207,388,nan
+77,Commerce (International) with Hispanic Studies,CK208,402,nan
+78,Commerce (International) with Irish,CK209,484,nan
+79,Commerce (International) with Chinese Studies,CK211,397,nan
+80,Economics (through Transformational Learning) 3 or 4 years Int`l Pathway,CK212,444,nan
+81,Food Marketing and Entrepreneurship,CK213,462,nan
+82,International Development,CK214,346,nan
+83,Law (Pathways) -  3 or 4 years,CK301,507,499
+84,Law and French,CK302,542,nan
+85,Law and Irish,CK304,540,nan
+86,Law and Business,CK307,556,nan
+87,Computer Science,CK401,468,nan
+88,Biological and Chemical Sciences,CK402,510,509
+89,"Biological, Earth and Environmental Sciences",CK404,467,nan
+90,Genetics,CK405,487,nan
+91,Chemical Sciences,CK406,485,472
+92,Mathematical Sciences,CK407,566,565
+93,Physics and Astrophysics,CK408,554,542
+94,Industrial Physics - Offered jointly by UCC and CIT,CK409,432,nan
+95,Data Science and Analytics,CK411,510,nan
+96,Agricultural Science,CK412,496,496
+97,Nutritional Sciences,CK504,518,nan
+98,Food Science,CK505,441,440
+99,Engineering,CK600,487,nan
+100,Architecture - Offered jointly by UCC and CIT,CK606,484,476
+101,Medicine (Undergraduate Entry - HPAT required),CK701,731,nan
+102,Dentistry,CK702,613,613
+103,Pharmacy,CK703,590,589
+104,Occupational Therapy,CK704,566,555
+105,Speech and Language Therapy,CK705,520,nan
+106,Public Health Sciences,CK706,454,nan
+107,Medical and Health Sciences,CK707,542,541
+108,General Nursing,CK710,454,nan
+109,Children`s and General Nursing (Integrated),CK712,533,nan
+110,Mental Health Nursing,CK720,423,nan
+111,Intellectual Disability Nursing,CK730,419,411
+112,Midwifery,CK740,484,nan
+113,Medicine  - Graduate Entry (GAMSAT required),CK791,57,nan
+114,Education - Primary Teaching,CM001,484,nan
+115,Education - Primary Teaching - Gaeltacht Applicants,CM002,nan,nan
+116,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht,CM003,528,nan
+117,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht,CM004,494,nan
+118,Education Studies,CM010,319,nan
+119,Early Childhood Education,CM020,327,nan
+120,Chemical and Biopharmaceutical Engineering,CR105,443,nan
+121,Software Development,CR106,411,nan
+122,Mechanical Engineering,CR108,434,nan
+123,Structural Engineering,CR109,394,nan
+124,Automotive Business Management and Technology,CR110,311,nan
+125,Creative Digital Media,CR112,361,nan
+126,Computer Systems,CR116,332,nan
+127,Music at CIT Cork School of Music,CR121,868,nan
+128,Popular Music: Electric Bass Guitar at CIT Cork School of Music,CR125,1088,nan
+129,Popular Music: Drums at CIT Cork School of Music,CR126,801,nan
+130,Popular Music: Electric Guitar at CIT Cork School of Music,CR127,838,768
+131,Popular Music: Keyboards at CIT Cork School of Music,CR128,840,nan
+132,Popular Music: Voice at CIT Cork School of Music,CR129,841,nan
+133,Musical Theatre at CIT Cork School of Music,CR130,548,518
+134,Business Information Systems,CR150,335,nan
+135,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",CR210,,nan
+136,Fine Art at CIT Crawford College of Art and Design,CR220,,nan
+137,Photography with New Media,CR225,,nan
+138,Physical Sciences (Common Entry),CR305,282,nan
+139,IT Management,CR310,297,nan
+140,Biomedical Science - Offered jointly by CIT and UCC,CR320,565,nan
+141,Pharmaceutical Biotechnology,CR325,398,nan
+142,Nutrition and Health Science,CR333,402,nan
+143,Biological Sciences (Common Entry),CR335,420,nan
+144,Analytical Chemistry with Quality Assurance,CR340,251,nan
+145,Instrument Engineering,CR360,261,nan
+146,Environmental Science and Sustainable Technology,CR365,253,nan
+147,Agri-Biosciences,CR370,397,nan
+148,Accounting,CR400,316,nan
+149,Marketing,CR420,285,nan
+150,International Business with Language,CR425,298,nan
+151,Sport and Exercise Management,CR430,322,nan
+152,Montessori Education,CR440,288,nan
+153,Engineering (Common Entry),CR500,411,nan
+154,Sustainable Energy Engineering,CR510,320,nan
+155,Biomedical Engineering,CR520,444,nan
+156,Architectural Technology,CR560,308,nan
+157,Interior Architecture,CR565,359,nan
+158,Quantity Surveying,CR570,336,nan
+159,Construction Management,CR572,269,nan
+160,Electrical Engineering,CR580,318,nan
+161,Electronic Engineering,CR590,303,nan
+162,Visual Communications,CR600,,nan
+163,Tourism Management,CR660,252,nan
+164,Theatre and Drama Studies at CIT Cork School of Music,CR700,740,645
+165,Information Technology,CT125,220,nan
+166,Business,CT325,338,nan
+167,Business (options),CW018,298,248
+168,Early Childhood Education and Care,CW028,252,nan
+169,Art (portfolio),CW038,700,nan
+170,Tourism and Event Management,CW058,298,nan
+171,Applied Social Studies in Professional Social Care,CW068,245,nan
+172,Sustainable Farm Management and Agribusiness,CW078,269,nan
+173,Visual Communications and Design,CW088,274,nan
+174,Science (options),CW108,261,nan
+175,Brewing and Distilling,CW128,263,nan
+176,Sport and Exercise Science,CW138,423,nan
+177,Strength and Conditioning,CW148,379,nan
+178,Sport Rehabilitation and Athletic Therapy,CW188,451,448
+179,Computer Games Development,CW208,279,nan
+180,Software Development,CW238,297,nan
+181,Information Technology Management,CW248,285,nan
+182,Cybercrime and IT Security,CW258,293,nan
+183,Computing in Interactive Digital Art and Design,CW268,287,nan
+184,Construction (options),CW438,272,nan
+185,Architectural Technology,CW468,262,nan
+186,Civil Engineering,CW478,433,nan
+187,Mechanical Engineering,CW548,321,nan
+188,Electronic Systems,CW558,280,nan
+189,Aerospace Engineering,CW568,380,nan
+190,TV and Media Production,CW578,325,nan
+191,Law - LLB,CW708,302,nan
+192,Product Design Innovation,CW728,252,nan
+193,Early Childhood Education and Care,CW748,270,nan
+194,Professional Social Care Practice,CW758,336,nan
+195,Media and Public Relations,CW808,251,nan
+196,Digital Marketing with Analytics,CW848,254,nan
+197,"Sports Management and Coaching (options, portfolio)",CW858,700,nan
+198,Business (options),CW908,280,nan
+199,Business with Law,CW938,283,nan
+200,Accounting,CW948,300,nan
+201,Computing,DB500,218,218
+202,Computing (Cloud Computing),DB501,227,227
+203,Computing (Data Analytics and Big Data),DB502,341,341
+204,Computing (Software Development),DB503,225,225
+205,Computing (Web and Mobile Technology),DB504,nan,281
+206,Audio Production and Music Project Management,DB510,234,223
+207,Business Studies,DB512,218,203
+208,Business Studies (Law),DB514,252,nan
+209,Business Studies (Human Resource Management),DB515,244,244
+210,Financial Services,DB516,nan,nan
+211,Marketing (Event Management),DB517,238,nan
+212,Accounting and Finance,DB521,225,195
+213,Business (Information Systems),DB524,342,309
+214,Business (Cloud Computing),DB526,347,nan
+215,Applied Social Care,DB527,234,260
+216,Marketing,DB531,293,nan
+217,Psychology,DB562,243,229
+218,Social Science,DB566,220,227
+219,Film and Creative Media,DB567,218,202
+220,Law,DB568,219,252
+221,Business (Psychology),DB569,252,nan
+222,Education - Early Childhood Education,DC001,440,nan
+223,Education - Primary Teaching,DC002,488,nan
+224,Education - Primary Teaching - Gaeltacht Applicants,DC003,445,nan
+225,Education - Primary Teaching (Church of Ireland Centre formerly CICE),DC004,411,409
+226,Arts (Joint Honours) - Humanities,DC009,376,nan
+227,Post Primary Teacher Education - Religious Education and English,DC010,441,429
+228,Post Primary Teacher Education - Religious Education and History,DC011,412,391
+229,Post Primary Teacher Education - Religious Education and Music,DC012,378,nan
+230,Post Primary Teacher Ed - Gaeilge with French/German/Spanish,DC013,419,nan
+231,BA in Jazz and Contemporary Music Performance (audition),DC014,419,nan
+232,Business Studies International,DC110,465,nan
+233,Business Studies,DC111,488,nan
+234,Global Business (France),DC112,517,510
+235,Global Business (Germany),DC113,462,nan
+236,Global Business (Spain),DC114,522,nan
+237,Accounting and Finance,DC115,510,nan
+238,Global Business (USA),DC116,579,nan
+239,Aviation Management / Aviation Management with Pilot Studies,DC117,476,475
+240,Gnó agus Gaeilge / Business and Irish,DC118,359,nan
+241,Global Business (Canada),DC119,564,nan
+242,Enterprise Computing,DC120,357,nan
+243,Computer Applications,DC121,400,nan
+244,Data Science,DC123,465,nan
+245,Actuarial Mathematics,DC126,560,nan
+246,Common Entry into Actuarial and Financial Mathematics,DC127,532,520
+247,Communication Studies,DC131,407,402
+248,Journalism,DC132,429,422
+249,Multimedia,DC133,411,410
+250,Applied Language and Translation Studies,DC155,387,nan
+251,Analytical Science,DC161,498,489
+252,Chemical and Pharmaceutical Sciences,DC162,521,nan
+253,Environmental Science and Technology,DC166,433,399
+254,Genetics and Cell Biology,DC168,512,510
+255,Physics General Entry (options),DC175,419,402
+256,Biotechnology,DC181,499,495
+257,Electronic and Computer Engineering (with choice of four majors),DC190,413,nan
+258,Mechatronic Engineering,DC193,411,nan
+259,Mechanical and Manufacturing Engineering,DC195,425,nan
+260,Biomedical Engineering,DC197,423,nan
+261,Common Entry into Engineering (Undenominated Entry),DC200,422,nan
+262,Common Entry into Science (Undenominated Entry),DC201,498,488
+263,Sport Science and Health,DC202,500,498
+264,Science Education,DC203,435,nan
+265,Athletic Therapy and Training,DC204,522,519
+266,Physical Education with Biology,DC205,531,nan
+267,Physical Education with Mathematics,DC206,499,nan
+268,Psychology,DC208,532,521
+269,Health and Society,DC209,465,440
+270,General Nursing,DC215,454,433
+271,Mental Health Nursing,DC216,418,403
+272,Intellectual Disability Nursing,DC217,370,nan
+273,Children`s and General Nursing (Integrated),DC218,500,498
+274,"Economics, Politics and Law",DC230,435,nan
+275,International Relations,DC231,397,nan
+276,Law and Society (BCL),DC232,466,nan
+277,Education and Training - Daytime and Flexible Delivery Mode (full-time),DC235,309,nan
+278,Social Sciences and Cultural Innovation,DC238,377,nan
+279,"Gaeilge, Iriseoireacht agus na Meáin Dhigiteacha",DC239,430,nan
+280,"Marketing, Innovation and Technology",DC240,476,474
+281,Arts (Joint Honours) - Media Studies,DC291,376,nan
+282,Arts (Joint Honours) - Law,DC292,403,nan
+283,Arts (Joint Honours) - International Languages,DC293,377,nan
+284,Arts (Joint Honours) - Politics,DC295,376,nan
+285,Accounting and Finance,DK810,305,305
+286,Business Studies,DK816,300,300
+287,Computing in Games Development,DK820,311,311
+288,Computing in Software Development,DK821,302,302
+289,Augmented and Virtual Reality,DK822,307,nan
+290,Building Surveying,DK830,336,nan
+291,Architectural Technology,DK831,389,nan
+292,Construction Management,DK832,387,nan
+293,Engineering (Common Entry),DK843,340,340
+294,Mechanical Engineering,DK844,305,305
+295,Electrical & Electronic Engineering,DK845,304,304
+296,Civil Engineering,DK846,391,361
+297,International Tourism Management,DK850,317,317
+298,Music (audition),DK860,532,532
+299,Arts,DK861,302,302
+300,Social Care,DK862,301,nan
+301,Creative Media,DK863,308,308
+302,Film and Television Production,DK864,300,300
+303,Audio and Music Production,DK865,301,nan
+304,General Nursing,DK870,403,401
+305,Intellectual Disability Nursing,DK872,336,nan
+306,Mental Health Nursing,DK874,356,nan
+307,Early Childhood Studies,DK876,321,nan
+308,Midwifery,DK877,440,nan
+309,Health and Physical Activity,DK880,328,nan
+310,Agriculture (Award options),DK882,310,nan
+311,Science (Award options),DK883,358,321
+312,Sustainable Agriculture,DK884,nan,nan
+313,Agri-Food Production,DK885,nan,nan
+314,Biopharmaceutical Science,DK886,301,nan
+315,Environmental Science,DK887,330,nan
+316,"English, Media and Cultural Studies",DL821,212,212
+317,Arts Management,DL822,229,229
+318,Business Management,DL823,235,nan
+319,Applied Psychology,DL825,379,nan
+320,Visual Communication Design,DL826,855,nan
+321,Art,DL827,572,nan
+322,"3D Design, Modelmaking and Digital Art",DL828,506,nan
+323,Design for Stage and Screen (Costume Design),DL829,593,nan
+324,Design for Stage and Screen (Character Makeup Design),DL830,939,nan
+325,Design for Stage and Screen (Production Design),DL831,781,nan
+326,Animation,DL832,920,nan
+327,Photography,DL833,650,nan
+328,Film and Television Production,DL834,990,nan
+329,Creative Computing,DL836,219,nan
+330,New Media Studies,DL837,201,nan
+331,Creative Music Production,DL838,754,nan
+332,Interaction and User Experience Design,DL839,683,683
+333,Digital Marketing,DL840,228,228
+334,English and Equality Studies,DL841,276,nan
+335,Architecture,DN100,510,nan
+336,Landscape Architecture,DN120,407,nan
+337,City Planning and Environmental Policy,DN130,407,400
+338,Engineering (Common Entry),DN150,531,521
+339,Science (options),DN200,533,nan
+340,Computer Science (Common Entry),DN201,510,nan
+341,Actuarial and Financial Studies,DN230,601,nan
+342,Sustainability,DN240,440,nan
+343,Agricultural Science (options),DN250,456,455
+344,Dairy Business,DN252,410,nan
+345,Agri - Environmental Sciences,DN253,418,nan
+346,Food Science,DN261,477,nan
+347,Human Nutrition,DN262,531,nan
+348,Forestry,DN271,311,nan
+349,"Horticulture, Landscape and Sportsturf Management",DN272,297,282
+350,Veterinary Medicine - Undergraduate Entry,DN300,589,nan
+351,Veterinary Medicine - Graduate Entry (GAMSAT required),DN301,nan,nan
+352,Veterinary Nursing,DN310,478,477
+353,Medicine - Undergraduate Entry (HPAT required),DN400,737,736
+354,Medicine - Graduate Entry (GAMSAT required),DN401,nan,nan
+355,Radiography,DN410,534,532
+356,Radiography - Graduate Entry,DN411,nan,nan
+357,Physiotherapy,DN420,578,577
+358,Health and Performance Science,DN425,510,509
+359,Sport and Exercise Management,DN430,455,445
+360,"Biomedical, Health and Life Sciences",DN440,590,589
+361,General Nursing,DN450,429,424
+362,Children`s and General Nursing (Integrated),DN451,509,506
+363,Midwifery,DN452,489,476
+364,Mental Health Nursing,DN453,397,393
+365,Joint Honours (options),DN520,310,nan
+366,Humanities (options),DN530,340,336
+367,Modern Languages (options),DN541,303,nan
+368,Law (options),DN600,546,544
+369,Business and Law,DN610,545,nan
+370,Commerce,DN650,521,521
+371,Commerce International (options),DN660,517,511
+372,Economics and Finance,DN670,613,nan
+373,Social Sciences (options),DN700,421,419
+374,Economics,DN710,498,498
+375,Psychology,DN720,530,522
+376,Social Policy and Sociology,DN750,378,nan
+377,Accounting,GA181,309,nan
+378,Business,GA182,287,nan
+379,Business Information Systems,GA183,296,nan
+380,Marketing and Sales,GA184,307,nan
+381,Finance and Economics,GA185,293,nan
+382,Business with Entrepreneurship,GA186,280,nan
+383,Rural Enterprise and Agri-Business,GA187,281,nan
+384,Film and Documentary,GA281,304,nan
+385,Heritage Studies,GA282,220,nan
+386,Contemporary Art,GA283,679,nan
+387,Design,GA284,303,nan
+388,"Education (Art, Design and Graphics)",GA285,nan,nan
+389,International Hotel Management,GA380,242,nan
+390,International Tourism Management,GA381,278,nan
+391,Culinary and Gastronomic Science,GA382,206,nan
+392,Event Management with Public Relations,GA384,212,nan
+393,Construction Management,GA480,260,nan
+394,Quantity Surveying and Construction Economics,GA482,288,nan
+395,Architectural Technology,GA483,265,nan
+396,Civil Engineering,GA484,290,nan
+397,Software and Electronic Engineering,GA580,300,nan
+398,Mechanical Engineering,GA680,330,nan
+399,Energy Engineering,GA681,293,nan
+400,Biomedical Engineering,GA682,313,nan
+401,Agricultural Engineering,GA683,309,nan
+402,Engineering (Common entry to Agri/Biomed/Energy/Mech Eng),GA684,340,nan
+403,Manufacturing Engineering Design,GA685,309,nan
+404,Applied Freshwater and Marine Biology,GA780,327,nan
+405,Applied Biology and Biopharmaceutical Science,GA781,337,nan
+406,Chemical and Pharmaceutical Science,GA782,336,nan
+407,Physics and Instrumentation,GA783,363,nan
+408,Science (Undenominated),GA784,372,nan
+409,Medical Science,GA785,473,nan
+410,Forensic Science and Analysis,GA786,317,nan
+411,Computing in Software Development,GA787,270,nan
+412,Computing and Digital Media,GA788,274,nan
+413,Agriculture and Environmental Management,GA789,287,nan
+414,Sport and Exercise Science,GA790,356,nan
+415,Public Health Nutrition,GA791,368,nan
+416,General Nursing,GA880,429,422
+417,Psychiatric Nursing,GA882,367,nan
+418,Outdoor Education,GA885,252,nan
+419,History and Geography,GA887,244,nan
+420,Applied Social Care,GA889,266,nan
+421,Early Childhood Education and Care,GA890,270,nan
+422,Geography and Outdoor Education,GA891,244,nan
+423,Education (Design Graphics and Construction),GA980,377,nan
+424,"Furniture Design, Making and Technology - Common Entry",GA984,284,nan
+425,Business Studies,GC200,252,252
+426,Accounting and Finance,GC201,303,303
+427,Computing Science,GC230,335,325
+428,Communications and Media Production,GC250,nan,nan
+429,Business Studies,GC300,429,nan
+430,Accounting & Finance,GC301,253,253
+431,Business Studies - HRM,GC302,nan,nan
+432,International Hospitality Management,GC305,253,253
+433,Business Studies,GC400,248,248
+434,Accounting and Finance,GC401,240,227
+435,Business Studies (HRM),GC402,264,236
+436,Law,GC403,244,228
+437,Business Studies (Marketing),GC407,280,280
+438,Computing Science,GC430,252,220
+439,Communications and Media Production,GC450,254,254
+440,Design Communication (portfolio),GC462,nan,nan
+441,Interior Architecture (portfolio),GC489,254,nan
+442,Fashion Design (portfolio),GC494,337,217
+443,Arts (Joint-Honours),GY101,300,nan
+444,Arts (Psychology),GY104,523,520
+445,Arts (History),GY105,301,nan
+446,Na Dána (Gaeilge agus Léann an Aistriúcháin),GY107,409,nan
+447,Arts (Mathematics and Education),GY109,403,nan
+448,Arts with Children`s Studies,GY110,357,nan
+449,Arts with Creative Writing,GY111,330,nan
+450,Arts with Film Studies,GY112,321,nan
+451,Arts with Human Rights,GY113,368,nan
+452,Arts with Performing Arts Studies,GY115,387,nan
+453,"Arts (Drama, Theatre and Performance Studies)",GY118,451,nan
+454,Arts (Journalism),GY119,400,nan
+455,"Arts (Child, Youth and Family: Policy and Practice)",GY120,350,nan
+456,Arts (Children`s Studies),GY121,356,nan
+457,Na Dána (Cumarsáid agus Gaeilge),GY122,361,nan
+458,Applied Social Sciences,GY123,358,nan
+459,Arts (Arts with Data Science),GY124,454,nan
+460,Arts (Digital Arts and Technology),GY125,328,nan
+461,Arts (English and Media Studies),GY126,391,nan
+462,Arts (Film and Digital Media),GY127,401,nan
+463,Arts (Global Languages),GY128,352,nan
+464,Arts (International),GY129,420,nan
+465,Arts (Music),GY130,408,nan
+466,Arts (History and Globalisation Studies),GY131,360,nan
+467,"Government (Politics, Economics and Law)",GY132,407,nan
+468,Education (Computer Science and Mathematical Studies),GY133,422,nan
+469,Geography and Geosystems,GY134,410,nan
+470,Commerce,GY201,433,nan
+471,Commerce (International) with French,GY202,484,nan
+472,Commerce (International) with German,GY203,489,nan
+473,Commerce (International) with Spanish,GY204,495,nan
+474,Business Information Systems (Work Placement & Optional Int`l Study),GY206,465,nan
+475,Commerce (Accounting) including optional Global Experience year,GY207,509,nan
+476,Commerce (Gaeilge),GY208,473,nan
+477,Commerce (Global Experience),GY209,530,nan
+478,Law and Business,GY250,487,nan
+479,Law (BCL),GY251,499,nan
+480,Law (BCL) and Human Rights,GY252,520,nan
+481,Law and Taxation,GY253,509,nan
+482,"Law (BCL), Criminology and Criminal Justice",GY254,530,nan
+483,"Business Studies (International Hotel Management, interview)",GY261,497,nan
+484,"Commerce (International Hotel Management, interview)",GY262,681,nan
+485,Science,GY301,433,432
+486,Biomedical Science,GY303,556,nan
+487,Biotechnology,GY304,465,nan
+488,Environmental Science,GY308,408,nan
+489,Financial Mathematics and Economics,GY309,487,nan
+490,Marine Science,GY310,419,nan
+491,Environmental Health and Safety,GY313,412,nan
+492,Earth and Ocean Sciences,GY314,403,nan
+493,Biopharmaceutical Chemistry,GY318,509,nan
+494,Mathematical Science,GY319,476,nan
+495,"Physics (Degree options: Applied,Astrophysics,Biomedical,Theoretical)",GY320,402,nan
+496,Genetics and Genomics,GY321,508,nan
+497,Computer Science and Information Technology,GY350,403,nan
+498,Engineering (Undenominated),GY401,465,nan
+499,Civil Engineering,GY402,455,nan
+500,Mechanical Engineering,GY405,454,nan
+501,Electronic and Computer Engineering,GY406,510,nan
+502,Biomedical Engineering,GY408,509,nan
+503,Project and Construction Management,GY410,403,nan
+504,Energy Systems Engineering,GY413,502,nan
+505,Electrical and Electronic Engineering,GY414,405,nan
+506,"Medicine (five year/six year course, HPAT required)",GY501,728,nan
+507,Occupational Therapy,GY502,555,nan
+508,Speech and Language Therapy,GY503,543,nan
+509,Podiatric Medicine,GY504,443,nan
+510,General Nursing (Galway and Portiuncula),GY515,476,473
+511,Mental Health Nursing,GY516,440,nan
+512,Midwifery,GY517,495,nan
+513,Accounting and Finance,ID001,203,nan
+514,Business Studies,ID002,294,nan
+515,"Art and Design (Common Entry, portfolio)",LC110,740,nan
+516,Fashion and Textiles for Product and Costume (portfolio),LC114,880,nan
+517,Art and Design Teacher Education (portfolio),LC115,942,nan
+518,Digital Marketing,LC220,262,nan
+519,Law and Taxation,LC223,307,nan
+520,Accounting and Finance,LC224,300,nan
+521,Marketing and Management,LC225,298,nan
+522,Enterprise and Innovation,LC226,234,234
+523,Software Development,LC233,272,nan
+524,Interactive Digital Media,LC234,225,nan
+525,Internet Systems Development,LC236,262,260
+526,Computer Networks and Systems Management,LC239,307,nan
+527,Construction Management,LC241,255,nan
+528,Property Valuation and Management,LC242,282,nan
+529,Quantity Surveying,LC243,294,nan
+530,Built Environment (Common Entry),LC248,288,nan
+531,Civil Engineering Management,LC252,270,nan
+532,Clinical Technology,LC263,294,nan
+533,Forensic and Pharmaceutical Sciences,LC265,413,nan
+534,Drug and Medicinal Product Analysis,LC266,262,nan
+535,Electrical Engineering,LC275,298,nan
+536,Mechanical Engineering,LC288,347,346
+537,Precision Engineering,LC289,291,nan
+538,Social Care Work,LC292,367,nan
+539,Business Studies with Travel and Tourism Management,LC293,307,nan
+540,Business Studies with Event Management,LC294,279,nan
+541,Business Studies with Sports Management,LC295,252,nan
+542,Community Development,LC297,235,nan
+543,Business,LC320,346,nan
+544,Business with Computing,LC330,297,nan
+545,Interior Design,LC340,350,nan
+546,Biotechnology and Biopharmaceutical Sciences,LC362,413,nan
+547,Creative Broadcast and Film Production,LC371,309,nan
+548,Music Technology and Production,LC372,325,nan
+549,Renewable and Electrical Energy Engineering,LC374,318,nan
+550,Industrial Automation and Robotic Systems,LC375,317,nan
+551,Electronic Engineering,LC376,318,nan
+552,Automotive Engineering and Transport Management,LC380,303,298
+553,Business Studies in Beauty and Spa Management,LC392,236,nan
+554,Early Childhood Education and Care,LC393,236,nan
+555,Early Childhood Education and Care,LC401,297,nan
+556,Social Care Work,LC402,225,nan
+557,Environmental Science and Climate,LC408,279,nan
+558,Data Analytics and Cyber Security,LC414,236,nan
+559,Business,LC416,274,nan
+560,Computing - Games Design and Development,LC418,270,nan
+561,Sports Strength and Conditioning,LC422,298,nan
+562,Environmental Science and Agriculture,LC434,297,nan
+563,Game Art and Design (portfolio),LC502,852,nan
+564,Creative Media and Design,LC517,234,nan
+565,Digital Animation Production (portfolio),LC518,808,nan
+566,Social Care Work,LC612,320,nan
+567,Early Childhood Education and Care,LC613,242,nan
+568,Arts,LM002,348,nan
+569,Law and Accounting,LM020,465,nan
+570,Performing Arts (audition required),LM026,303,nan
+571,Criminal Justice,LM028,418,nan
+572,Law Plus,LM029,490,nan
+573,Psychology and Sociology,LM038,500,nan
+574,Journalism and Digital Communication,LM039,402,nan
+575,European Studies,LM040,369,nan
+576,Applied Languages,LM044,442,nan
+577,Business Studies (options),LM050,431,nan
+578,International Business,LM056,528,nan
+579,Financial Mathematics,LM058,403,nan
+580,Technology Management,LM063,379,nan
+581,Food Science and Health,LM068,421,nan
+582,Product Design and Technology (portfolio required),LM076,408,nan
+583,Aeronautical Engineering,LM077,520,nan
+584,Construction Management and Engineering,LM082,398,nan
+585,Sport and Exercise Sciences,LM089,474,nan
+586,Physical Education with concurrent Teacher Education,LM090,532,nan
+587,Languages with concurrent Teacher Education,LM091,517,nan
+588,Science with Teacher Ed (Biology with Physics/Chemistry/Ag Science),LM092,507,nan
+589,Equine Science,LM093,339,nan
+590,Materials and Architectural Technology with concurrent Teacher Education,LM094,440,nan
+591,Materials and Engineering Technology with concurrent Teacher Education,LM095,367,nan
+592,Science with Teacher Ed (Physical Sciences with Chemistry and Physics),LM096,405,nan
+593,Mathematics and Computer Science with concurrent Teacher Education,LM097,402,nan
+594,Architecture (portfolio requirement suspended),LM099,498,nan
+595,Physiotherapy,LM100,589,nan
+596,Medicine  - Graduate Entry (GAMSAT required),LM101,55,nan
+597,Psychology,LM102,509,nan
+598,Paramedic Studies (B/C1/C1 Provisional Drivers Licence),LM103,392,nan
+599,Chemical and Biochemical Engineering,LM115,454,nan
+600,Engineering (Biomedical/Civil/Design and Manufacture/Mechanical),LM116,476,nan
+601,Electronic and Computer Engineering,LM118,403,nan
+602,Computer Science (Computer Systems/Games Dev/Mobile Comm Security),LM121,351,nan
+603,Creative Media and Interaction Design (Digital Design/Music Media Tech),LM122,327,nan
+604,Biological & Chemical Sciences (Biosci/Envir Sci/Ind Bio/IndPharma Chem),LM123,441,nan
+605,Mathematics (Math Science/Maths and Physics/Economics and Maths),LM124,437,nan
+606,Physics (Applied Physics or Mathematics & Physics),LM125,404,nan
+607,General Nursing,LM150,475,nan
+608,Mental Health Nursing,LM152,419,nan
+609,Intellectual Disability Nursing,LM154,420,nan
+610,Midwifery,LM156,469,nan
+611,Business - Accounting,LY108,309,nan
+612,Business,LY118,290,nan
+613,Law,LY208,300,nan
+614,Sports and Exercise - Common Entry,LY228,300,nan
+615,Design - Common Entry,LY408,320,nan
+616,Fire Safety Engineering,LY508,276,nan
+617,Quantity Surveying,LY518,301,nan
+618,Construction Management,LY528,271,nan
+619,Mechanical Engineering,LY608,300,nan
+620,Electronic Engineering,LY618,312,nan
+621,Applied Computing,LY708,306,nan
+622,Computer Science,LY748,317,317
+623,Science - Common Entry,LY818,303,nan
+624,Agriculture - Common Entry,LY828,307,nan
+625,General Nursing,LY908,400,nan
+626,Psychiatric Nursing,LY918,357,nan
+627,Intellectual Disability Nursing,LY928,326,nan
+628,"Early Childhood Care, Health and Education",LY968,303,nan
+629,Health & Social Care - Common Entry,LY978,280,nan
+630,Education - Primary Teaching (Froebel),MH001,507,nan
+631,Education - Primary Teaching - Gaeltacht Applicants (Froebel),MH002,nan,nan
+632,Arts,MH101,318,nan
+633,Music,MH103,,nan
+634,Psychology - 3 years,MH106,521,nan
+635,Social Science,MH107,346,nan
+636,Media Studies,MH109,316,nan
+637,Community and Youth Work (Full-Time),MH116,,nan
+638,Science,MH201,360,nan
+639,Biotechnology,MH202,455,nan
+640,Biological and Geographical Sciences,MH203,430,nan
+641,Physics with Astrophysics,MH204,422,nan
+642,Theoretical Physics and Mathematics,MH206,510,nan
+643,Data Science,MH207,445,nan
+644,Biological and Biomedical Sciences,MH208,498,nan
+645,Psychology (through Science) - 4 years,MH209,498,nan
+646,Pharmaceutical and Biomedical Chemistry,MH210,487,nan
+647,Science or Maths & Computer Science or Maths & Applied Maths (with Ed),MH212,422,nan
+648,Engineering (Computer/Electronic/Communications),MH304,333,333
+649,Product Design,MH305,357,nan
+650,Robotics and Intelligent Devices,MH306,361,nan
+651,Finance (options),MH401,357,nan
+652,Quantitative Finance,MH402,476,nan
+653,Accounting and Finance,MH403,422,nan
+654,Business (options),MH404,430,nan
+655,Equine Business,MH405,357,nan
+656,Business and Accounting,MH407,420,nan
+657,Entrepreneurship,MH411,371,nan
+658,LLB Law - four year Single Major Law programme,MH501,473,nan
+659,Law (options),MH502,451,nan
+660,Computer Science through Arts (options),MH601,352,nan
+661,Computer Science through Science (options),MH602,351,nan
+662,Computational Thinking,MH603,532,nan
+663,Early Childhood - Teaching and Learning (part-time),MH801,327,nan
+664,"Community and Youth Work (part-time, in service)",MH802,,
+665,"Local Studies/Community Studies (part-time, evening) - Mature Students",MH803,,
+666,Contemporary & Applied Theatre Studies,MI001,375,nan
+667,Arts,MI002,300,281
+668,Education - Primary Teaching - International,MI004,577,nan
+669,Education - Primary Teaching,MI005,495,nan
+670,Education - Primary Teaching - Gaeltacht Applicants,MI006,456,nan
+671,Early Childhood Care and Education,MI007,357,nan
+672,Education and Psychology - Primary Teaching,MI008,588,nan
+673,"Education, Business Studies and Accounting",MI009,402,nan
+674,"Education, Business Studies and Religious Studies",MI010,368,nan
+675,"Education, Gaeilge and Religious Studies",MI011,409,nan
+676,"Education, Gaeilge and Business Studies",MI012,401,nan
+677,"Education, Mathematics and Gaeilge",MI013,444,nan
+678,"Education, Mathematics and Business Studies",MI014,434,nan
+679,Theology and Arts,MU001,290,290
+680,Theology,MU002,440,nan
+681,Computing (Degree Award options),NC003,260,nan
+682,Human Resource Management,NC005,300,nan
+683,Business,NC009,300,nan
+684,Psychology,NC010,400,nan
+685,Marketing Practice,NC020,280,nan
+686,Accounting and Finance,NC022,337,nan
+687,Technology Management (with specialisations),NC023,261,nan
+688,Montessori Education,NM801,220,nan
+689,"Social, Political and Community Studies",PC405,253,216
+690,Arts and Humanities (fulfils Teaching Council requirements),PC410,252,209
+691,English and History (fulfils Teaching Council requirements),PC411,255,209
+692,Medicine - Undergraduate Entry (HPAT required),RC001,733,nan
+693,Physiotherapy,RC004,566,nan
+694,Pharmacy,RC005,579,nan
+695,Medicine - Graduate Entry (GAMSAT required),RC101,nan,nan
+696,Business,SG141,261,nan
+697,Business in International Marketing and Languages (French),SG142,279,nan
+698,Business in International Marketing and Languages (Spanish),SG144,270,nan
+699,Accounting,SG146,309,nan
+700,Sport with Business,SG147,307,nan
+701,Tourism with Event Management,SG148,269,nan
+702,Performing Arts,SG241,328,nan
+703,Early Childhood Care and Education,SG242,279,nan
+704,Social Care Practice,SG243,301,nan
+705,Fine Art,SG244,505,nan
+706,Creative Design,SG245,282,nan
+707,Computing,SG246,290,nan
+708,English and Psychology,SG247,309,nan
+709,Sociology and Politics,SG248,281,nan
+710,Writing and Literature,SG249,297,nan
+711,Application Design and User Experience,SG250,412,nan
+712,Computing (Smart Technologies),SG251,327,nan
+713,Software Development,SG252,307,nan
+714,Computer Networks and Cloud Infrastructure,SG253,324,nan
+715,Writing and Literature Online,SG254,225,225
+716,Civil Engineering,SG342,415,nan
+717,Quantity Surveying,SG343,311,nan
+718,Construction Project Management and Applied Technology,SG346,291,nan
+719,Architecture,SG347,360,nan
+720,Interior Architecture and Design,SG348,316,nan
+721,Occupational Safety and Health,SG442,290,nan
+722,Human Nutrition,SG443,356,nan
+723,Science Undenominated,SG444,338,nan
+724,Pharmaceutical Science with Drug Development,SG445,311,nan
+725,Health Science and Physical Activity,SG447,328,nan
+726,Forensic Investigation and Analysis,SG448,306,nan
+727,Medical Biotechnology,SG449,341,nan
+728,Environmental Science with Ecology (Level 8),SG450,300,nan
+729,"Animation, Visual Effects and Motion Design (Level 8)",TL801,281,nan
+730,"TV, Radio and New Media (Level 8)",TL802,325,nan
+731,Computing with Software Development,TL810,310,nan
+732,Computing with Games Development,TL811,358,nan
+733,Computing (Degree Award options),TL815,308,nan
+734,Event Management (3 year programme),TL823,299,nan
+735,Business Studies (Major Specialism in: Acctng or Mktg or Mgmnt),TL831,306,nan
+736,Agricultural Engineering,TL844,300,nan
+737,Civil Engineering,TL845,325,nan
+738,Manufacturing Engineering,TL847,302,nan
+739,Agricultural Science,TL848,308,nan
+740,Wildlife Biology (Degree Award options),TL851,309,nan
+741,Pharmaceutical Science (Degree Award options),TL855,317,nan
+742,Veterinary Bioscience,TL858,308,nan
+743,Health and Leisure (Degree Award options),TL871,300,nan
+744,Health and Leisure with Massage,TL872,309,nan
+745,Coaching and Sports Performance,TL873,289,nan
+746,Early Childhood Care and Education,TL880,307,nan
+747,Social Care,TL881,308,nan
+748,Counselling with Addiction - Mature applicants only,TL889,nan,nan
+749,General Nursing and Mature Applicants,TL890,440,414
+750,Mental Health Nursing and Mature Applicants,TL891,389,378
+751,Music,TR002,435,429
+752,History,TR003,497,493
+753,Law,TR004,566,565
+754,Philosophy,TR005,442,nan
+755,Psychology,TR006,567,555
+756,Clinical Speech and Language Studies,TR007,529,nan
+757,Music Education,TR009,420,nan
+758,History and Political Science,TR012,555,554
+759,"Philosophy, Political Science, Economics and Sociology",TR015,589,nan
+760,Deaf Studies,TR016,340,nan
+761,Law and Business,TR017,602,nan
+762,Law and French,TR018,565,nan
+763,Law and German,TR019,543,542
+764,Law and Political Science,TR020,602,nan
+765,"Classics, Ancient History and Archaeology",TR021,370,nan
+766,Early and Modern Irish,TR022,398,nan
+767,English Studies,TR023,487,476
+768,European Studies,TR024,544,542
+769,Drama and Theatre Studies,TR025,564,530
+770,Ancient and Medieval History and Culture,TR028,342,nan
+771,Political Science and Geography,TR029,526,520
+772,Mathematics,TR031,531,nan
+773,Engineering,TR032,510,509
+774,Computer Science,TR033,509,nan
+775,Management Science and Information Systems Studies,TR034,613,nan
+776,Theoretical Physics,TR035,543,nan
+777,Engineering with Management,TR038,532,nan
+778,Computer Science and Language,TR039,454,424
+779,Middle Eastern and European Languages and Cultures,TR040,466,nan
+780,Religion,TR041,368,nan
+781,Film,TR042,489,476
+782,History of Art and Architecture,TR043,393,354
+783,Medicine (HPAT required),TR051,735,734
+784,Dental Science,TR052,613,613
+785,Physiotherapy,TR053,566,566
+786,Occupational Therapy,TR054,533,nan
+787,Radiation Therapy,TR055,543,nan
+788,Human Health and Disease,TR056,565,nan
+789,Biological and Biomedical Sciences,TR060,543,543
+790,Chemical Sciences,TR061,517,510
+791,Geography and Geoscience,TR062,473,nan
+792,Physical Sciences,TR063,498,498
+793,Pharmacy,TR072,590,nan
+794,Global Business,TR080,589,nan
+795,"Business, Economic and Social Studies (BESS)",TR081,543,543
+796,Computer Science and Business,TR082,555,nan
+797,Sociology and Social Policy,TR083,498,487
+798,Social Studies (Social Work),TR084,462,nan
+799,Business Studies and French,TR085,540,531
+800,Business Studies and German,TR086,509,499
+801,Business Studies and Russian,TR087,474,465
+802,Business Studies and Polish,TR089,444,424
+803,Business Studies and Spanish,TR090,531,nan
+804,General Nursing (Meath and St James`s),TR091,429,nan
+805,General Nursing (Adelaide School of Nursing),TR093,430,429
+806,Mental Health Nursing,TR095,408,nan
+807,Intellectual Disability Nursing,TR097,396,nan
+808,Ancient History and Archaeology/Geography,TR111,352,nan
+809,Ancient History and Archaeology/History,TR112,529,nan
+810,Ancient History and Archaeology/History of Art and Architecture,TR113,337,nan
+811,Ancient History and Archaeology/Modern Language,TR114,337,nan
+812,Ancient History and Archaeology/Religion,TR117,342,nan
+813,Classical Civilisation/English Literature,TR166,498,496
+814,Classical Civilisation/History of Art and Architecture,TR173,335,nan
+815,Classical Civilisation/Modern Language,TR177,335,nan
+816,Classical Civilisation/Philosophy,TR179,499,nan
+817,Economics/Geography,TR198,534,nan
+818,Economics/History,TR202,534,nan
+819,Economics/Mathematics,TR207,566,nan
+820,Economics/Modern Language,TR208,534,nan
+821,Economics/Philosophy,TR209,534,nan
+822,Economics/Sociology,TR212,534,nan
+823,Classical Languages/English Literature,TR228,498,nan
+824,Classical Languages/History of Art and Architecture,TR231,349,nan
+825,"Classical Languages/Middle Eastern,Jewish and Islamic Civilisations",TR233,349,nan
+826,Classical Languages/Modern Language,TR239,349,nan
+827,English Literature/History,TR262,529,nan
+828,English Literature/History of Art and Architecture,TR263,498,497
+829,English Literature/Philosophy,TR269,499,nan
+830,English Literature/Sociology,TR272,498,nan
+831,English Literature/Drama Studies,TR276,498,nan
+832,English Literature/Modern Language,TR277,498,495
+833,Film/Drama Studies,TR311,521,nan
+834,Film/English Literature,TR312,521,nan
+835,Film/Music,TR320,521,nan
+836,Geography/History,TR322,529,nan
+837,Drama Studies/Modern Language,TR323,473,nan
+838,Film/Modern Language,TR324,521,nan
+839,Film/History,TR325,529,nan
+840,Geography/Modern Language,TR326,352,nan
+841,Geography/Sociology,TR332,498,496
+842,History/History of Art and Architecture,TR443,529,nan
+843,History/Modern Language,TR447,529,nan
+844,History/Philosophy,TR449,529,nan
+845,History/Sociology,TR452,529,nan
+846,History/Religion,TR454,529,nan
+847,History of Art and Architecture/Modern Language,TR455,334,nan
+848,History of Art and Architecture/Philosophy,TR479,499,nan
+849,"Middle Eastern,Jewish and Islamic Civ./Ancient History and Archaeology",TR547,337,nan
+850,"Middle Eastern,Jewish and Islamic Civilisations/Classical Civilisation",TR548,335,nan
+851,"Middle Eastern,Jewish and Islamic Civilisations/History",TR554,529,nan
+852,"Middle Eastern,Jewish and Islamic Civilisations/Modern Language",TR563,335,nan
+853,"Middle Eastern,Jewish and Islamic Civilisations/Music",TR564,nan,nan
+854,"Middle Eastern,Jewish and Islamic Civilisations/Religion",TR565,342,nan
+855,Mathematics/Modern Language,TR597,566,nan
+856,Mathematics/Music,TR598,566,nan
+857,Mathematics/Philosophy,TR599,566,nan
+858,Music/Philosophy,TR629,499,nan
+859,Music/Drama Studies,TR635,473,nan
+860,Music/Modern Language,TR636,388,nan
+861,Music/Religion,TR638,388,nan
+862,Philosophy/Modern Language,TR639,499,nan
+863,Philosophy/Sociology,TR662,499,nan
+864,Religion/Classical Civilisation,TR663,342,nan
+865,Religion/English Literature,TR664,498,nan
+866,Religion/History of Art and Architecture,TR665,342,nan
+867,Religion/Modern Language,TR666,nan,nan
+868,French/Modern Language,TR667,403,nan
+869,German/Modern Language,TR668,389,nan
+870,Irish/Modern Language,TR669,368,nan
+871,Italian/Modern Language,TR670,381,nan
+872,Russian/Modern Language,TR671,332,nan
+873,Spanish/Modern Language,TR672,336,nan
+874,Sociology/Drama Studies,TR755,498,nan
+875,Sociology/Modern Language,TR756,498,495
+876,Children`s and General Nursing (Integrated),TR911,511,510
+877,Midwifery,TR913,478,477
+878,Biomedical Design,TU801,235,nan
+879,Electrical Services and Energy Management,TU802,317,300
+880,Electronic Engineering,TU803,243,243
+881,Engineering (Common Entry with Award options),TU804,271,nan
+882,Engineering (General Entry),TU805,402,nan
+883,Sustainable Energy Engineering,TU806,262,nan
+884,Computer Engineering in Mobile Systems,TU807,276,nan
+885,Engineering Software,TU808,260,260
+886,Mechanical Engineering,TU809,235,nan
+887,Mechatronic Engineering,TU810,270,nan
+888,Product Design,TU811,411,nan
+889,"Design,Technology and Innovation",TU812,270,nan
+890,Automation Engineering,TU813,218,218
+891,Transport Operations and Technology,TU814,285,251
+892,Architectural Technology,TU831,410,nan
+893,Architecture (Suitability Test and Interview),TU832,622,nan
+894,Construction Management,TU833,367,nan
+895,Geographic Science,TU834,288,nan
+896,Planning and Environmental Management,TU835,313,nan
+897,Property Economics (Valuation Surveying),TU836,401,nan
+898,Quantity Surveying and Construction Economics,TU837,385,nan
+899,Analytical Chemistry (Environmental Forensic and Pharmaceutical),TU851,349,nan
+900,Chemical Sciences with Medicinal Chemistry,TU852,476,nan
+901,Science (General Entry),TU854,476,nan
+902,Science with Nanotechnology,TU855,331,319
+903,Computer Science,TU856,476,nan
+904,Computer Science (Infrastructure),TU857,391,nan
+905,Computer Science (International),TU858,377,nan
+906,Computing,TU859,217,234
+907,Computing (Information Technology),TU860,260,nan
+908,Computing with Language (French/German/Spanish),TU861,308,308
+909,Computing with Data Analytics,TU862,226,226
+910,Digital Forensics and Cyber Security,TU863,280,nan
+911,DNA and Forensic Analysis,TU864,400,390
+912,Computing with IT Management,TU865,226,nan
+913,Biomedical and Molecular Diagnostics,TU866,487,nan
+914,Biomedical Science,TU867,524,nan
+915,Clinical Measurement Science,TU868,510,nan
+916,Environmental Health,TU869,336,nan
+917,Human Nutrition and Dietetics,TU870,578,nan
+918,Optometry,TU871,509,nan
+919,Public Health Nutrition,TU872,491,nan
+920,Industrial Mathematics,TU873,250,250
+921,Mathematical Sciences,TU874,341,nan
+922,Pharmaceutical Healthcare,TU875,400,nan
+923,Pharmaceutical Science,TU876,377,349
+924,Physics Technology,TU877,308,nan
+925,Physics with Energy and Environment,TU878,337,337
+926,Physics with Medical Physics and Bioengineering,TU879,351,nan
+927,Physics with Data Science,TU880,578,nan
+928,Food Innovation,TU881,318,nan
+929,Nutraceuticals in Health and Nutrition,TU882,397,nan
+930,Business,TU901,270,nan
+931,Business (Common Entry with Award options),TU902,271,nan
+932,Business and Management,TU903,463,nan
+933,Business and Law,TU904,462,nan
+934,Economics and Finance,TU905,465,nan
+935,Human Resource Management,TU906,395,nan
+936,Logistics and Supply Chain Management,TU907,300,nan
+937,Management,TU908,262,253
+938,Accounting and Finance,TU909,285,nan
+939,Accounting and Finance,TU910,444,nan
+940,Accounting and Finance,TU911,209,192
+941,Business Analytics,TU912,330,nan
+942,Business and Information Technology,TU913,252,nan
+943,Business Computing,TU914,324,nan
+944,International Business,TU915,252,nan
+945,International Business,TU916,235,235
+946,Law (LLB ) with a Language,TU917,342,nan
+947,Law (LLB),TU918,451,nan
+948,Advertising and Marketing Communications,TU919,228,226
+949,Digital Marketing,TU920,270,nan
+950,Digital Marketing Technologies,TU921,212,212
+951,Marketing,TU922,418,nan
+952,Marketing Management,TU923,228,276
+953,E-Commerce in Retailing,TU924,307,nan
+954,Retail and Services Management,TU925,301,nan
+955,Sports Management and Coaching,TU935,300,nan
+956,Sports Science and Health,TU936,410,391
+957,Botanical Cuisine,TU941,249,nan
+958,Culinary Arts,TU942,212,212
+959,Culinary Entrepreneurship,TU943,278,nan
+960,Culinary Science,TU944,316,nan
+961,International Hospitality and Tourism Management,TU951,184,184
+962,International Hospitality Management,TU952,300,nan
+963,Tourism and Digital Marketing,TU953,290,nan
+964,Event Management,TU954,356,nan
+965,Sports & Leisure Management,TU955,217,317
+966,Commercial Modern Music,TU961,608,608
+967,Drama (Performance),TU962,379,nan
+968,Music,TU963,416,nan
+969,International Business and Languages,TU965,356,346
+970,Languages and English Studies,TU966,366,nan
+971,Languages and International Tourism,TU967,308,nan
+972,Contemporary Visual Culture,TU971,290,nan
+973,Creative and Cultural Industries,TU972,281,nan
+974,Design - Visual Communication,TU973,717,nan
+975,Fine Art,TU974,709,563
+976,Interior Design,TU975,632,nan
+977,Photography,TU976,695,nan
+978,Creative Digital Media,TU981,280,nan
+979,Creative Digital Media,TU982,320,311
+980,Film and Broadcasting,TU983,456,451
+981,Game Design,TU984,381,nan
+982,Journalism,TU985,322,nan
+983,Print Media Technology and Management,TU986,289,nan
+984,Applied Social Studies in Social Care,TU991,325,nan
+985,Community and Youth Development,TU992,251,nan
+986,Early Childhood Care and Education,TU993,270,nan
+987,Early Childhood Care and Education,TU994,321,251
+988,Early Childhood Education,TU995,367,nan
+989,Social Care,TU996,400,nan
+990,Applied Social Care,TU997,310,283
+991,Applied Computing (options),WD001,260,260
+992,Science (options),WD002,308,nan
+993,Health Sciences (options),WD005,280,nan
+994,Exercise Sciences (options),WD006,280,nan
+995,Engineering (options),WD007,288,288
+996,Construction Management and Engineering,WD025,269,nan
+997,Music,WD027,262,nan
+998,Business (options),WD048,271,nan
+999,Accounting,WD084,308,nan
+1000,Hospitality Management,WD091,228,nan
+1001,General Nursing,WD116,422,nan
+1002,Psychiatric Nursing,WD117,366,nan
+1003,Intellectual Disability Nursing,WD120,377,nan
+1004,International Business,WD134,290,nan
+1005,Design (Visual Communications),WD137,271,nan
+1006,Laws,WD140,280,nan
+1007,Architecture,WD144,284,nan
+1008,Pharmaceutical Science,WD147,293,nan
+1009,Early Childhood Studies,WD149,271,nan
+1010,Criminal Justice Studies,WD150,270,nan
+1011,Visual Art,WD152,AQA,nan
+1012,Computer Forensics and Security,WD161,255,nan
+1013,Quantity Surveying,WD162,216,nan
+1014,Psychology,WD163,434,nan
+1015,Sports Coaching and Performance,WD186,270,nan
+1016,Social Science,WD187,272,nan
+1017,Agricultural Science,WD191,377,nan
+1018,Social Care Practice,WD192,270,nan
+1019,Marketing and Digital Media,WD193,271,nan
+1020,Culinary Arts,WD194,217,nan
+1021,Architectural and Building Information Modelling Technology,WD195,279,nan
+1022,Arts (options),WD200,AQA,AQA
+1023,Software Systems Development,WD210,279,nan
+1024,Creative Computing,WD211,271,nan
+1025,Recreation and Sport Management,WD212,270,nan
+1026,Mechanical and Manufacturing Engineering,WD230,253,nan
