@@ -1,0 +1,1028 @@
+,title,code,pointsR1,pointsR2,HEI
+0,International Business,AC120,209,nan,American College
+1,Liberal Arts,AC137,252,nan,American College
+2,"First Year Art & Design (Common Entry,portfolio)",AD101,,nan,National College of Art and Design
+3,Graphic Design and Moving Image Design (portfolio),AD102,,nan,National College of Art and Design
+4,Textile & Surface Design and Jewellery & Objects (portfolio),AD103,,nan,National College of Art and Design
+5,"Education & Design or Fine Art (Second Level Teaching,portfolio))",AD202,,nan,National College of Art and Design
+6,Fine Art (portfolio),AD204,,nan,National College of Art and Design
+7,Fashion Design (portfolio),AD211,,nan,National College of Art and Design
+8,Product Design (portfolio),AD212,,nan,National College of Art and Design
+9,Visual Culture,AD215,377,320,National College of Art and Design
+10,Illustration (portfolio),AD217,,nan,National College of Art and Design
+11,Interaction Design (portfolio),AD222,,nan,National College of Art and Design
+12,Software Design with Virtual Reality and Gaming,AL801,303,nan,Athlone Institute of Technology
+13,Software Design with Artificial Intelligence for Cloud Computing,AL802,332,nan,Athlone Institute of Technology
+14,Software Design with Mobile Apps and Connected Devices,AL803,337,nan,Athlone Institute of Technology
+15,Computer Engineering with Network Infrastructure,AL805,333,nan,Athlone Institute of Technology
+16,Quantity Surveying,AL810,319,nan,Athlone Institute of Technology
+17,Civil Engineering,AL811,320,nan,Athlone Institute of Technology
+18,Mechanical and Polymer Engineering,AL820,308,nan,Athlone Institute of Technology
+19,General Nursing,AL830,442,nan,Athlone Institute of Technology
+20,Psychiatric Nursing,AL832,387,384,Athlone Institute of Technology
+21,Nutrition and Health Science,AL836,334,nan,Athlone Institute of Technology
+22,Sports Science with Exercise Physiology,AL837,351,nan,Athlone Institute of Technology
+23,Biotechnology,AL838,307,nan,Athlone Institute of Technology
+24,Microbiology,AL839,325,nan,Athlone Institute of Technology
+25,Pharmaceutical Sciences,AL840,347,nan,Athlone Institute of Technology
+26,Athletic and Rehabilitation Therapy,AL841,430,nan,Athlone Institute of Technology
+27,Bioveterinary Science,AL842,313,nan,Athlone Institute of Technology
+28,Physical Activity and Health Science,AL843,306,nan,Athlone Institute of Technology
+29,Business,AL850,309,nan,Athlone Institute of Technology
+30,Business and Law,AL851,295,nan,Athlone Institute of Technology
+31,Accounting,AL852,309,nan,Athlone Institute of Technology
+32,Sport Management (with international placement),AL854,302,299,Athlone Institute of Technology
+33,Hospitality Management (with international placement),AL855,308,nan,Athlone Institute of Technology
+34,Digital Marketing,AL857,304,nan,Athlone Institute of Technology
+35,Social Care Practice,AL860,300,nan,Athlone Institute of Technology
+36,Animation and Illustration (portfolio),AL861,578,nan,Athlone Institute of Technology
+37,Graphic and Digital Design (portfolio),AL863,781,nan,Athlone Institute of Technology
+38,Early Years Care and Education,AL864,307,nan,Athlone Institute of Technology
+39,Applied Psychology,AL870,418,nan,Athlone Institute of Technology
+40,"Education, Home Economics and Biology - with concurrent Teacher Ed",AS001,510,nan,St. Angela`s College
+41,"Education, Home Economics and Religious Ed - with concurrent Teacher Ed",AS002,441,434,St. Angela`s College
+42,"Education, Home Economics and Irish - with concurrent Teacher Ed",AS003,440,440,St. Angela`s College
+43,"Nutrition, Food and Business Management",AS051,328,317,St. Angela`s College
+44,Home Economics,AS054,408,398,St. Angela`s College
+45,General Nursing,AS110,419,nan,St. Angela`s College
+46,Intellectual Disability Nursing,AS130,336,328,St. Angela`s College
+47,Counselling and Psychotherapy,CI110,310,nan,Irish College of Humanities & Applied Sciences
+48,Counselling and Addiction Studies,CI111,301,nan,Irish College of Humanities & Applied Sciences
+49,Counselling and Youth Studies,CI112,311,nan,Irish College of Humanities & Applied Sciences
+50,Arts - 3 years,CK101,300,nan,University College Cork (NUI)
+51,Social Science,CK102,412,nan,University College Cork (NUI)
+52,Arts with Music - 3 or 4 years (BMus or Chinese/European/Int`l Pathway),CK104,302,nan,University College Cork (NUI)
+53,Film and Screen Media - 3 years or 4 years (International Pathway),CK105,368,337,University College Cork (NUI)
+54,Geographical and Archaeological Sciences - 3 or 4 years (Int`l Pathway),CK107,328,nan,University College Cork (NUI)
+55,Arts International - 4 years,CK108,401,nan,University College Cork (NUI)
+56,English - 3 years or 4 years (International Pathway),CK109,318,nan,University College Cork (NUI)
+57,World Languages,CK110,452,433,University College Cork (NUI)
+58,Early Years and Childhood Studies,CK111,419,nan,University College Cork (NUI)
+59,Theatre and Performative Practices - 3 or 4 years (Int`l Pathway),CK112,330,nan,University College Cork (NUI)
+60,Criminology - 3 years or 4 years (International Pathway),CK113,423,nan,University College Cork (NUI)
+61,Social Science (Youth and Community Work) - 3 years,CK114,nan,nan,University College Cork (NUI)
+62,Social Work - Mature Applicants only,CK115,nan,nan,University College Cork (NUI)
+63,Digital Humanities and IT - 3 or 4 years (Work Exper. or Int`l Pathway),CK118,336,nan,University College Cork (NUI)
+64,Applied Psychology,CK120,533,532,University College Cork (NUI)
+65,Psychology and Computing - 3 or 4 years (Work Experience Pathway),CK121,466,nan,University College Cork (NUI)
+66,Government and Political Science,CK122,337,328,University College Cork (NUI)
+67,Anthropology,CK123,308,nan,University College Cork (NUI)
+68,Education - Gaeilge,CK124,463,462,University College Cork (NUI)
+69,Sports Studies and Physical Education,CK125,510,509,University College Cork (NUI)
+70,Commerce,CK201,477,nan,University College Cork (NUI)
+71,Accounting,CK202,509,nan,University College Cork (NUI)
+72,Business Information Systems,CK203,430,nan,University College Cork (NUI)
+73,Finance,CK204,556,nan,University College Cork (NUI)
+74,Commerce (International) with French,CK205,445,nan,University College Cork (NUI)
+75,Commerce (International) with German,CK206,420,418,University College Cork (NUI)
+76,Commerce (International) with Italian,CK207,388,nan,University College Cork (NUI)
+77,Commerce (International) with Hispanic Studies,CK208,402,nan,University College Cork (NUI)
+78,Commerce (International) with Irish,CK209,484,nan,University College Cork (NUI)
+79,Commerce (International) with Chinese Studies,CK211,397,nan,University College Cork (NUI)
+80,Economics (through Transformational Learning) 3 or 4 years Int`l Pathway,CK212,444,nan,University College Cork (NUI)
+81,Food Marketing and Entrepreneurship,CK213,462,nan,University College Cork (NUI)
+82,International Development,CK214,346,nan,University College Cork (NUI)
+83,Law (Pathways) -  3 or 4 years,CK301,507,499,University College Cork (NUI)
+84,Law and French,CK302,542,nan,University College Cork (NUI)
+85,Law and Irish,CK304,540,nan,University College Cork (NUI)
+86,Law and Business,CK307,556,nan,University College Cork (NUI)
+87,Computer Science,CK401,468,nan,University College Cork (NUI)
+88,Biological and Chemical Sciences,CK402,510,509,University College Cork (NUI)
+89,"Biological, Earth and Environmental Sciences",CK404,467,nan,University College Cork (NUI)
+90,Genetics,CK405,487,nan,University College Cork (NUI)
+91,Chemical Sciences,CK406,485,472,University College Cork (NUI)
+92,Mathematical Sciences,CK407,566,565,University College Cork (NUI)
+93,Physics and Astrophysics,CK408,554,542,University College Cork (NUI)
+94,Industrial Physics - Offered jointly by UCC and CIT,CK409,432,nan,University College Cork (NUI)
+95,Data Science and Analytics,CK411,510,nan,University College Cork (NUI)
+96,Agricultural Science,CK412,496,496,University College Cork (NUI)
+97,Nutritional Sciences,CK504,518,nan,University College Cork (NUI)
+98,Food Science,CK505,441,440,University College Cork (NUI)
+99,Engineering,CK600,487,nan,University College Cork (NUI)
+100,Architecture - Offered jointly by UCC and CIT,CK606,484,476,University College Cork (NUI)
+101,Medicine (Undergraduate Entry - HPAT required),CK701,731,nan,University College Cork (NUI)
+102,Dentistry,CK702,613,613,University College Cork (NUI)
+103,Pharmacy,CK703,590,589,University College Cork (NUI)
+104,Occupational Therapy,CK704,566,555,University College Cork (NUI)
+105,Speech and Language Therapy,CK705,520,nan,University College Cork (NUI)
+106,Public Health Sciences,CK706,454,nan,University College Cork (NUI)
+107,Medical and Health Sciences,CK707,542,541,University College Cork (NUI)
+108,General Nursing,CK710,454,nan,University College Cork (NUI)
+109,Children`s and General Nursing (Integrated),CK712,533,nan,University College Cork (NUI)
+110,Mental Health Nursing,CK720,423,nan,University College Cork (NUI)
+111,Intellectual Disability Nursing,CK730,419,411,University College Cork (NUI)
+112,Midwifery,CK740,484,nan,University College Cork (NUI)
+113,Medicine  - Graduate Entry (GAMSAT required),CK791,57,nan,University College Cork (NUI)
+114,Education - Primary Teaching,CM001,484,nan,Marino Institute of Education
+115,Education - Primary Teaching - Gaeltacht Applicants,CM002,nan,nan,Marino Institute of Education
+116,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht,CM003,528,nan,Marino Institute of Education
+117,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht,CM004,494,nan,Marino Institute of Education
+118,Education Studies,CM010,319,nan,Marino Institute of Education
+119,Early Childhood Education,CM020,327,nan,Marino Institute of Education
+120,Chemical and Biopharmaceutical Engineering,CR105,443,nan,Cork Institute of Technology
+121,Software Development,CR106,411,nan,Cork Institute of Technology
+122,Mechanical Engineering,CR108,434,nan,Cork Institute of Technology
+123,Structural Engineering,CR109,394,nan,Cork Institute of Technology
+124,Automotive Business Management and Technology,CR110,311,nan,Cork Institute of Technology
+125,Creative Digital Media,CR112,361,nan,Cork Institute of Technology
+126,Computer Systems,CR116,332,nan,Cork Institute of Technology
+127,Music at CIT Cork School of Music,CR121,868,nan,Cork Institute of Technology
+128,Popular Music: Electric Bass Guitar at CIT Cork School of Music,CR125,1088,nan,Cork Institute of Technology
+129,Popular Music: Drums at CIT Cork School of Music,CR126,801,nan,Cork Institute of Technology
+130,Popular Music: Electric Guitar at CIT Cork School of Music,CR127,838,768,Cork Institute of Technology
+131,Popular Music: Keyboards at CIT Cork School of Music,CR128,840,nan,Cork Institute of Technology
+132,Popular Music: Voice at CIT Cork School of Music,CR129,841,nan,Cork Institute of Technology
+133,Musical Theatre at CIT Cork School of Music,CR130,548,518,Cork Institute of Technology
+134,Business Information Systems,CR150,335,nan,Cork Institute of Technology
+135,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",CR210,,nan,Cork Institute of Technology
+136,Fine Art at CIT Crawford College of Art and Design,CR220,,nan,Cork Institute of Technology
+137,Photography with New Media,CR225,,nan,Cork Institute of Technology
+138,Physical Sciences (Common Entry),CR305,282,nan,Cork Institute of Technology
+139,IT Management,CR310,297,nan,Cork Institute of Technology
+140,Biomedical Science - Offered jointly by CIT and UCC,CR320,565,nan,Cork Institute of Technology
+141,Pharmaceutical Biotechnology,CR325,398,nan,Cork Institute of Technology
+142,Nutrition and Health Science,CR333,402,nan,Cork Institute of Technology
+143,Biological Sciences (Common Entry),CR335,420,nan,Cork Institute of Technology
+144,Analytical Chemistry with Quality Assurance,CR340,251,nan,Cork Institute of Technology
+145,Instrument Engineering,CR360,261,nan,Cork Institute of Technology
+146,Environmental Science and Sustainable Technology,CR365,253,nan,Cork Institute of Technology
+147,Agri-Biosciences,CR370,397,nan,Cork Institute of Technology
+148,Accounting,CR400,316,nan,Cork Institute of Technology
+149,Marketing,CR420,285,nan,Cork Institute of Technology
+150,International Business with Language,CR425,298,nan,Cork Institute of Technology
+151,Sport and Exercise Management,CR430,322,nan,Cork Institute of Technology
+152,Montessori Education,CR440,288,nan,Cork Institute of Technology
+153,Engineering (Common Entry),CR500,411,nan,Cork Institute of Technology
+154,Sustainable Energy Engineering,CR510,320,nan,Cork Institute of Technology
+155,Biomedical Engineering,CR520,444,nan,Cork Institute of Technology
+156,Architectural Technology,CR560,308,nan,Cork Institute of Technology
+157,Interior Architecture,CR565,359,nan,Cork Institute of Technology
+158,Quantity Surveying,CR570,336,nan,Cork Institute of Technology
+159,Construction Management,CR572,269,nan,Cork Institute of Technology
+160,Electrical Engineering,CR580,318,nan,Cork Institute of Technology
+161,Electronic Engineering,CR590,303,nan,Cork Institute of Technology
+162,Visual Communications,CR600,,nan,Cork Institute of Technology
+163,Tourism Management,CR660,252,nan,Cork Institute of Technology
+164,Theatre and Drama Studies at CIT Cork School of Music,CR700,740,645,Cork Institute of Technology
+165,Information Technology,CT125,220,nan,CCT College Dublin
+166,Business,CT325,338,nan,CCT College Dublin
+167,Business (options),CW018,298,248,"Institute of Technology, Carlow"
+168,Early Childhood Education and Care,CW028,252,nan,"Institute of Technology, Carlow"
+169,Art (portfolio),CW038,700,nan,"Institute of Technology, Carlow"
+170,Tourism and Event Management,CW058,298,nan,"Institute of Technology, Carlow"
+171,Applied Social Studies in Professional Social Care,CW068,245,nan,"Institute of Technology, Carlow"
+172,Sustainable Farm Management and Agribusiness,CW078,269,nan,"Institute of Technology, Carlow"
+173,Visual Communications and Design,CW088,274,nan,"Institute of Technology, Carlow"
+174,Science (options),CW108,261,nan,"Institute of Technology, Carlow"
+175,Brewing and Distilling,CW128,263,nan,"Institute of Technology, Carlow"
+176,Sport and Exercise Science,CW138,423,nan,"Institute of Technology, Carlow"
+177,Strength and Conditioning,CW148,379,nan,"Institute of Technology, Carlow"
+178,Sport Rehabilitation and Athletic Therapy,CW188,451,448,"Institute of Technology, Carlow"
+179,Computer Games Development,CW208,279,nan,"Institute of Technology, Carlow"
+180,Software Development,CW238,297,nan,"Institute of Technology, Carlow"
+181,Information Technology Management,CW248,285,nan,"Institute of Technology, Carlow"
+182,Cybercrime and IT Security,CW258,293,nan,"Institute of Technology, Carlow"
+183,Computing in Interactive Digital Art and Design,CW268,287,nan,"Institute of Technology, Carlow"
+184,Construction (options),CW438,272,nan,"Institute of Technology, Carlow"
+185,Architectural Technology,CW468,262,nan,"Institute of Technology, Carlow"
+186,Civil Engineering,CW478,433,nan,"Institute of Technology, Carlow"
+187,Mechanical Engineering,CW548,321,nan,"Institute of Technology, Carlow"
+188,Electronic Systems,CW558,280,nan,"Institute of Technology, Carlow"
+189,Aerospace Engineering,CW568,380,nan,"Institute of Technology, Carlow"
+190,TV and Media Production,CW578,325,nan,"Institute of Technology, Carlow"
+191,Law - LLB,CW708,302,nan,"Institute of Technology, Carlow"
+192,Product Design Innovation,CW728,252,nan,"Institute of Technology, Carlow"
+193,Early Childhood Education and Care,CW748,270,nan,"Institute of Technology, Carlow"
+194,Professional Social Care Practice,CW758,336,nan,"Institute of Technology, Carlow"
+195,Media and Public Relations,CW808,251,nan,"Institute of Technology, Carlow"
+196,Digital Marketing with Analytics,CW848,254,nan,"Institute of Technology, Carlow"
+197,"Sports Management and Coaching (options, portfolio)",CW858,700,nan,"Institute of Technology, Carlow"
+198,Business (options),CW908,280,nan,"Institute of Technology, Carlow"
+199,Business with Law,CW938,283,nan,"Institute of Technology, Carlow"
+200,Accounting,CW948,300,nan,"Institute of Technology, Carlow"
+201,Computing,DB500,218,218,Dublin Business School
+202,Computing (Cloud Computing),DB501,227,227,Dublin Business School
+203,Computing (Data Analytics and Big Data),DB502,341,341,Dublin Business School
+204,Computing (Software Development),DB503,225,225,Dublin Business School
+205,Computing (Web and Mobile Technology),DB504,nan,281,Dublin Business School
+206,Audio Production and Music Project Management,DB510,234,223,Dublin Business School
+207,Business Studies,DB512,218,203,Dublin Business School
+208,Business Studies (Law),DB514,252,nan,Dublin Business School
+209,Business Studies (Human Resource Management),DB515,244,244,Dublin Business School
+210,Financial Services,DB516,nan,nan,Dublin Business School
+211,Marketing (Event Management),DB517,238,nan,Dublin Business School
+212,Accounting and Finance,DB521,225,195,Dublin Business School
+213,Business (Information Systems),DB524,342,309,Dublin Business School
+214,Business (Cloud Computing),DB526,347,nan,Dublin Business School
+215,Applied Social Care,DB527,234,260,Dublin Business School
+216,Marketing,DB531,293,nan,Dublin Business School
+217,Psychology,DB562,243,229,Dublin Business School
+218,Social Science,DB566,220,227,Dublin Business School
+219,Film and Creative Media,DB567,218,202,Dublin Business School
+220,Law,DB568,219,252,Dublin Business School
+221,Business (Psychology),DB569,252,nan,Dublin Business School
+222,Education - Early Childhood Education,DC001,440,nan,Dublin City University
+223,Education - Primary Teaching,DC002,488,nan,Dublin City University
+224,Education - Primary Teaching - Gaeltacht Applicants,DC003,445,nan,Dublin City University
+225,Education - Primary Teaching (Church of Ireland Centre formerly CICE),DC004,411,409,Dublin City University
+226,Arts (Joint Honours) - Humanities,DC009,376,nan,Dublin City University
+227,Post Primary Teacher Education - Religious Education and English,DC010,441,429,Dublin City University
+228,Post Primary Teacher Education - Religious Education and History,DC011,412,391,Dublin City University
+229,Post Primary Teacher Education - Religious Education and Music,DC012,378,nan,Dublin City University
+230,Post Primary Teacher Ed - Gaeilge with French/German/Spanish,DC013,419,nan,Dublin City University
+231,BA in Jazz and Contemporary Music Performance (audition),DC014,419,nan,Dublin City University
+232,Business Studies International,DC110,465,nan,Dublin City University
+233,Business Studies,DC111,488,nan,Dublin City University
+234,Global Business (France),DC112,517,510,Dublin City University
+235,Global Business (Germany),DC113,462,nan,Dublin City University
+236,Global Business (Spain),DC114,522,nan,Dublin City University
+237,Accounting and Finance,DC115,510,nan,Dublin City University
+238,Global Business (USA),DC116,579,nan,Dublin City University
+239,Aviation Management / Aviation Management with Pilot Studies,DC117,476,475,Dublin City University
+240,Gnó agus Gaeilge / Business and Irish,DC118,359,nan,Dublin City University
+241,Global Business (Canada),DC119,564,nan,Dublin City University
+242,Enterprise Computing,DC120,357,nan,Dublin City University
+243,Computer Applications,DC121,400,nan,Dublin City University
+244,Data Science,DC123,465,nan,Dublin City University
+245,Actuarial Mathematics,DC126,560,nan,Dublin City University
+246,Common Entry into Actuarial and Financial Mathematics,DC127,532,520,Dublin City University
+247,Communication Studies,DC131,407,402,Dublin City University
+248,Journalism,DC132,429,422,Dublin City University
+249,Multimedia,DC133,411,410,Dublin City University
+250,Applied Language and Translation Studies,DC155,387,nan,Dublin City University
+251,Analytical Science,DC161,498,489,Dublin City University
+252,Chemical and Pharmaceutical Sciences,DC162,521,nan,Dublin City University
+253,Environmental Science and Technology,DC166,433,399,Dublin City University
+254,Genetics and Cell Biology,DC168,512,510,Dublin City University
+255,Physics General Entry (options),DC175,419,402,Dublin City University
+256,Biotechnology,DC181,499,495,Dublin City University
+257,Electronic and Computer Engineering (with choice of four majors),DC190,413,nan,Dublin City University
+258,Mechatronic Engineering,DC193,411,nan,Dublin City University
+259,Mechanical and Manufacturing Engineering,DC195,425,nan,Dublin City University
+260,Biomedical Engineering,DC197,423,nan,Dublin City University
+261,Common Entry into Engineering (Undenominated Entry),DC200,422,nan,Dublin City University
+262,Common Entry into Science (Undenominated Entry),DC201,498,488,Dublin City University
+263,Sport Science and Health,DC202,500,498,Dublin City University
+264,Science Education,DC203,435,nan,Dublin City University
+265,Athletic Therapy and Training,DC204,522,519,Dublin City University
+266,Physical Education with Biology,DC205,531,nan,Dublin City University
+267,Physical Education with Mathematics,DC206,499,nan,Dublin City University
+268,Psychology,DC208,532,521,Dublin City University
+269,Health and Society,DC209,465,440,Dublin City University
+270,General Nursing,DC215,454,433,Dublin City University
+271,Mental Health Nursing,DC216,418,403,Dublin City University
+272,Intellectual Disability Nursing,DC217,370,nan,Dublin City University
+273,Children`s and General Nursing (Integrated),DC218,500,498,Dublin City University
+274,"Economics, Politics and Law",DC230,435,nan,Dublin City University
+275,International Relations,DC231,397,nan,Dublin City University
+276,Law and Society (BCL),DC232,466,nan,Dublin City University
+277,Education and Training - Daytime and Flexible Delivery Mode (full-time),DC235,309,nan,Dublin City University
+278,Social Sciences and Cultural Innovation,DC238,377,nan,Dublin City University
+279,"Gaeilge, Iriseoireacht agus na Meáin Dhigiteacha",DC239,430,nan,Dublin City University
+280,"Marketing, Innovation and Technology",DC240,476,474,Dublin City University
+281,Arts (Joint Honours) - Media Studies,DC291,376,nan,Dublin City University
+282,Arts (Joint Honours) - Law,DC292,403,nan,Dublin City University
+283,Arts (Joint Honours) - International Languages,DC293,377,nan,Dublin City University
+284,Arts (Joint Honours) - Politics,DC295,376,nan,Dublin City University
+285,Accounting and Finance,DK810,305,305,Dundalk Institute of Technology
+286,Business Studies,DK816,300,300,Dundalk Institute of Technology
+287,Computing in Games Development,DK820,311,311,Dundalk Institute of Technology
+288,Computing in Software Development,DK821,302,302,Dundalk Institute of Technology
+289,Augmented and Virtual Reality,DK822,307,nan,Dundalk Institute of Technology
+290,Building Surveying,DK830,336,nan,Dundalk Institute of Technology
+291,Architectural Technology,DK831,389,nan,Dundalk Institute of Technology
+292,Construction Management,DK832,387,nan,Dundalk Institute of Technology
+293,Engineering (Common Entry),DK843,340,340,Dundalk Institute of Technology
+294,Mechanical Engineering,DK844,305,305,Dundalk Institute of Technology
+295,Electrical & Electronic Engineering,DK845,304,304,Dundalk Institute of Technology
+296,Civil Engineering,DK846,391,361,Dundalk Institute of Technology
+297,International Tourism Management,DK850,317,317,Dundalk Institute of Technology
+298,Music (audition),DK860,532,532,Dundalk Institute of Technology
+299,Arts,DK861,302,302,Dundalk Institute of Technology
+300,Social Care,DK862,301,nan,Dundalk Institute of Technology
+301,Creative Media,DK863,308,308,Dundalk Institute of Technology
+302,Film and Television Production,DK864,300,300,Dundalk Institute of Technology
+303,Audio and Music Production,DK865,301,nan,Dundalk Institute of Technology
+304,General Nursing,DK870,403,401,Dundalk Institute of Technology
+305,Intellectual Disability Nursing,DK872,336,nan,Dundalk Institute of Technology
+306,Mental Health Nursing,DK874,356,nan,Dundalk Institute of Technology
+307,Early Childhood Studies,DK876,321,nan,Dundalk Institute of Technology
+308,Midwifery,DK877,440,nan,Dundalk Institute of Technology
+309,Health and Physical Activity,DK880,328,nan,Dundalk Institute of Technology
+310,Agriculture (Award options),DK882,310,nan,Dundalk Institute of Technology
+311,Science (Award options),DK883,358,321,Dundalk Institute of Technology
+312,Sustainable Agriculture,DK884,nan,nan,Dundalk Institute of Technology
+313,Agri-Food Production,DK885,nan,nan,Dundalk Institute of Technology
+314,Biopharmaceutical Science,DK886,301,nan,Dundalk Institute of Technology
+315,Environmental Science,DK887,330,nan,Dundalk Institute of Technology
+316,"English, Media and Cultural Studies",DL821,212,212,"Dun Laoghaire Institute of Art, Design and Technology"
+317,Arts Management,DL822,229,229,"Dun Laoghaire Institute of Art, Design and Technology"
+318,Business Management,DL823,235,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+319,Applied Psychology,DL825,379,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+320,Visual Communication Design,DL826,855,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+321,Art,DL827,572,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+322,"3D Design, Modelmaking and Digital Art",DL828,506,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+323,Design for Stage and Screen (Costume Design),DL829,593,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+324,Design for Stage and Screen (Character Makeup Design),DL830,939,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+325,Design for Stage and Screen (Production Design),DL831,781,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+326,Animation,DL832,920,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+327,Photography,DL833,650,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+328,Film and Television Production,DL834,990,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+329,Creative Computing,DL836,219,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+330,New Media Studies,DL837,201,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+331,Creative Music Production,DL838,754,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+332,Interaction and User Experience Design,DL839,683,683,"Dun Laoghaire Institute of Art, Design and Technology"
+333,Digital Marketing,DL840,228,228,"Dun Laoghaire Institute of Art, Design and Technology"
+334,English and Equality Studies,DL841,276,nan,"Dun Laoghaire Institute of Art, Design and Technology"
+335,Architecture,DN100,510,nan,University College Dublin (NUI)
+336,Landscape Architecture,DN120,407,nan,University College Dublin (NUI)
+337,City Planning and Environmental Policy,DN130,407,400,University College Dublin (NUI)
+338,Engineering (Common Entry),DN150,531,521,University College Dublin (NUI)
+339,Science (options),DN200,533,nan,University College Dublin (NUI)
+340,Computer Science (Common Entry),DN201,510,nan,University College Dublin (NUI)
+341,Actuarial and Financial Studies,DN230,601,nan,University College Dublin (NUI)
+342,Sustainability,DN240,440,nan,University College Dublin (NUI)
+343,Agricultural Science (options),DN250,456,455,University College Dublin (NUI)
+344,Dairy Business,DN252,410,nan,University College Dublin (NUI)
+345,Agri - Environmental Sciences,DN253,418,nan,University College Dublin (NUI)
+346,Food Science,DN261,477,nan,University College Dublin (NUI)
+347,Human Nutrition,DN262,531,nan,University College Dublin (NUI)
+348,Forestry,DN271,311,nan,University College Dublin (NUI)
+349,"Horticulture, Landscape and Sportsturf Management",DN272,297,282,University College Dublin (NUI)
+350,Veterinary Medicine - Undergraduate Entry,DN300,589,nan,University College Dublin (NUI)
+351,Veterinary Medicine - Graduate Entry (GAMSAT required),DN301,nan,nan,University College Dublin (NUI)
+352,Veterinary Nursing,DN310,478,477,University College Dublin (NUI)
+353,Medicine - Undergraduate Entry (HPAT required),DN400,737,736,University College Dublin (NUI)
+354,Medicine - Graduate Entry (GAMSAT required),DN401,nan,nan,University College Dublin (NUI)
+355,Radiography,DN410,534,532,University College Dublin (NUI)
+356,Radiography - Graduate Entry,DN411,nan,nan,University College Dublin (NUI)
+357,Physiotherapy,DN420,578,577,University College Dublin (NUI)
+358,Health and Performance Science,DN425,510,509,University College Dublin (NUI)
+359,Sport and Exercise Management,DN430,455,445,University College Dublin (NUI)
+360,"Biomedical, Health and Life Sciences",DN440,590,589,University College Dublin (NUI)
+361,General Nursing,DN450,429,424,University College Dublin (NUI)
+362,Children`s and General Nursing (Integrated),DN451,509,506,University College Dublin (NUI)
+363,Midwifery,DN452,489,476,University College Dublin (NUI)
+364,Mental Health Nursing,DN453,397,393,University College Dublin (NUI)
+365,Joint Honours (options),DN520,310,nan,University College Dublin (NUI)
+366,Humanities (options),DN530,340,336,University College Dublin (NUI)
+367,Modern Languages (options),DN541,303,nan,University College Dublin (NUI)
+368,Law (options),DN600,546,544,University College Dublin (NUI)
+369,Business and Law,DN610,545,nan,University College Dublin (NUI)
+370,Commerce,DN650,521,521,University College Dublin (NUI)
+371,Commerce International (options),DN660,517,511,University College Dublin (NUI)
+372,Economics and Finance,DN670,613,nan,University College Dublin (NUI)
+373,Social Sciences (options),DN700,421,419,University College Dublin (NUI)
+374,Economics,DN710,498,498,University College Dublin (NUI)
+375,Psychology,DN720,530,522,University College Dublin (NUI)
+376,Social Policy and Sociology,DN750,378,nan,University College Dublin (NUI)
+377,Accounting,GA181,309,nan,Galway-Mayo Institute of Technology
+378,Business,GA182,287,nan,Galway-Mayo Institute of Technology
+379,Business Information Systems,GA183,296,nan,Galway-Mayo Institute of Technology
+380,Marketing and Sales,GA184,307,nan,Galway-Mayo Institute of Technology
+381,Finance and Economics,GA185,293,nan,Galway-Mayo Institute of Technology
+382,Business with Entrepreneurship,GA186,280,nan,Galway-Mayo Institute of Technology
+383,Rural Enterprise and Agri-Business,GA187,281,nan,Galway-Mayo Institute of Technology
+384,Film and Documentary,GA281,304,nan,Galway-Mayo Institute of Technology
+385,Heritage Studies,GA282,220,nan,Galway-Mayo Institute of Technology
+386,Contemporary Art,GA283,679,nan,Galway-Mayo Institute of Technology
+387,Design,GA284,303,nan,Galway-Mayo Institute of Technology
+388,"Education (Art, Design and Graphics)",GA285,nan,nan,Galway-Mayo Institute of Technology
+389,International Hotel Management,GA380,242,nan,Galway-Mayo Institute of Technology
+390,International Tourism Management,GA381,278,nan,Galway-Mayo Institute of Technology
+391,Culinary and Gastronomic Science,GA382,206,nan,Galway-Mayo Institute of Technology
+392,Event Management with Public Relations,GA384,212,nan,Galway-Mayo Institute of Technology
+393,Construction Management,GA480,260,nan,Galway-Mayo Institute of Technology
+394,Quantity Surveying and Construction Economics,GA482,288,nan,Galway-Mayo Institute of Technology
+395,Architectural Technology,GA483,265,nan,Galway-Mayo Institute of Technology
+396,Civil Engineering,GA484,290,nan,Galway-Mayo Institute of Technology
+397,Software and Electronic Engineering,GA580,300,nan,Galway-Mayo Institute of Technology
+398,Mechanical Engineering,GA680,330,nan,Galway-Mayo Institute of Technology
+399,Energy Engineering,GA681,293,nan,Galway-Mayo Institute of Technology
+400,Biomedical Engineering,GA682,313,nan,Galway-Mayo Institute of Technology
+401,Agricultural Engineering,GA683,309,nan,Galway-Mayo Institute of Technology
+402,Engineering (Common entry to Agri/Biomed/Energy/Mech Eng),GA684,340,nan,Galway-Mayo Institute of Technology
+403,Manufacturing Engineering Design,GA685,309,nan,Galway-Mayo Institute of Technology
+404,Applied Freshwater and Marine Biology,GA780,327,nan,Galway-Mayo Institute of Technology
+405,Applied Biology and Biopharmaceutical Science,GA781,337,nan,Galway-Mayo Institute of Technology
+406,Chemical and Pharmaceutical Science,GA782,336,nan,Galway-Mayo Institute of Technology
+407,Physics and Instrumentation,GA783,363,nan,Galway-Mayo Institute of Technology
+408,Science (Undenominated),GA784,372,nan,Galway-Mayo Institute of Technology
+409,Medical Science,GA785,473,nan,Galway-Mayo Institute of Technology
+410,Forensic Science and Analysis,GA786,317,nan,Galway-Mayo Institute of Technology
+411,Computing in Software Development,GA787,270,nan,Galway-Mayo Institute of Technology
+412,Computing and Digital Media,GA788,274,nan,Galway-Mayo Institute of Technology
+413,Agriculture and Environmental Management,GA789,287,nan,Galway-Mayo Institute of Technology
+414,Sport and Exercise Science,GA790,356,nan,Galway-Mayo Institute of Technology
+415,Public Health Nutrition,GA791,368,nan,Galway-Mayo Institute of Technology
+416,General Nursing,GA880,429,422,Galway-Mayo Institute of Technology
+417,Psychiatric Nursing,GA882,367,nan,Galway-Mayo Institute of Technology
+418,Outdoor Education,GA885,252,nan,Galway-Mayo Institute of Technology
+419,History and Geography,GA887,244,nan,Galway-Mayo Institute of Technology
+420,Applied Social Care,GA889,266,nan,Galway-Mayo Institute of Technology
+421,Early Childhood Education and Care,GA890,270,nan,Galway-Mayo Institute of Technology
+422,Geography and Outdoor Education,GA891,244,nan,Galway-Mayo Institute of Technology
+423,Education (Design Graphics and Construction),GA980,377,nan,Galway-Mayo Institute of Technology
+424,"Furniture Design, Making and Technology - Common Entry",GA984,284,nan,Galway-Mayo Institute of Technology
+425,Business Studies,GC200,252,252,Griffith College
+426,Accounting and Finance,GC201,303,303,Griffith College
+427,Computing Science,GC230,335,325,Griffith College
+428,Communications and Media Production,GC250,nan,nan,Griffith College
+429,Business Studies,GC300,429,nan,Griffith College
+430,Accounting & Finance,GC301,253,253,Griffith College
+431,Business Studies - HRM,GC302,nan,nan,Griffith College
+432,International Hospitality Management,GC305,253,253,Griffith College
+433,Business Studies,GC400,248,248,Griffith College
+434,Accounting and Finance,GC401,240,227,Griffith College
+435,Business Studies (HRM),GC402,264,236,Griffith College
+436,Law,GC403,244,228,Griffith College
+437,Business Studies (Marketing),GC407,280,280,Griffith College
+438,Computing Science,GC430,252,220,Griffith College
+439,Communications and Media Production,GC450,254,254,Griffith College
+440,Design Communication (portfolio),GC462,nan,nan,Griffith College
+441,Interior Architecture (portfolio),GC489,254,nan,Griffith College
+442,Fashion Design (portfolio),GC494,337,217,Griffith College
+443,Arts (Joint-Honours),GY101,300,nan,"National University of Ireland, Galway"
+444,Arts (Psychology),GY104,523,520,"National University of Ireland, Galway"
+445,Arts (History),GY105,301,nan,"National University of Ireland, Galway"
+446,Na Dána (Gaeilge agus Léann an Aistriúcháin),GY107,409,nan,"National University of Ireland, Galway"
+447,Arts (Mathematics and Education),GY109,403,nan,"National University of Ireland, Galway"
+448,Arts with Children`s Studies,GY110,357,nan,"National University of Ireland, Galway"
+449,Arts with Creative Writing,GY111,330,nan,"National University of Ireland, Galway"
+450,Arts with Film Studies,GY112,321,nan,"National University of Ireland, Galway"
+451,Arts with Human Rights,GY113,368,nan,"National University of Ireland, Galway"
+452,Arts with Performing Arts Studies,GY115,387,nan,"National University of Ireland, Galway"
+453,"Arts (Drama, Theatre and Performance Studies)",GY118,451,nan,"National University of Ireland, Galway"
+454,Arts (Journalism),GY119,400,nan,"National University of Ireland, Galway"
+455,"Arts (Child, Youth and Family: Policy and Practice)",GY120,350,nan,"National University of Ireland, Galway"
+456,Arts (Children`s Studies),GY121,356,nan,"National University of Ireland, Galway"
+457,Na Dána (Cumarsáid agus Gaeilge),GY122,361,nan,"National University of Ireland, Galway"
+458,Applied Social Sciences,GY123,358,nan,"National University of Ireland, Galway"
+459,Arts (Arts with Data Science),GY124,454,nan,"National University of Ireland, Galway"
+460,Arts (Digital Arts and Technology),GY125,328,nan,"National University of Ireland, Galway"
+461,Arts (English and Media Studies),GY126,391,nan,"National University of Ireland, Galway"
+462,Arts (Film and Digital Media),GY127,401,nan,"National University of Ireland, Galway"
+463,Arts (Global Languages),GY128,352,nan,"National University of Ireland, Galway"
+464,Arts (International),GY129,420,nan,"National University of Ireland, Galway"
+465,Arts (Music),GY130,408,nan,"National University of Ireland, Galway"
+466,Arts (History and Globalisation Studies),GY131,360,nan,"National University of Ireland, Galway"
+467,"Government (Politics, Economics and Law)",GY132,407,nan,"National University of Ireland, Galway"
+468,Education (Computer Science and Mathematical Studies),GY133,422,nan,"National University of Ireland, Galway"
+469,Geography and Geosystems,GY134,410,nan,"National University of Ireland, Galway"
+470,Commerce,GY201,433,nan,"National University of Ireland, Galway"
+471,Commerce (International) with French,GY202,484,nan,"National University of Ireland, Galway"
+472,Commerce (International) with German,GY203,489,nan,"National University of Ireland, Galway"
+473,Commerce (International) with Spanish,GY204,495,nan,"National University of Ireland, Galway"
+474,Business Information Systems (Work Placement & Optional Int`l Study),GY206,465,nan,"National University of Ireland, Galway"
+475,Commerce (Accounting) including optional Global Experience year,GY207,509,nan,"National University of Ireland, Galway"
+476,Commerce (Gaeilge),GY208,473,nan,"National University of Ireland, Galway"
+477,Commerce (Global Experience),GY209,530,nan,"National University of Ireland, Galway"
+478,Law and Business,GY250,487,nan,"National University of Ireland, Galway"
+479,Law (BCL),GY251,499,nan,"National University of Ireland, Galway"
+480,Law (BCL) and Human Rights,GY252,520,nan,"National University of Ireland, Galway"
+481,Law and Taxation,GY253,509,nan,"National University of Ireland, Galway"
+482,"Law (BCL), Criminology and Criminal Justice",GY254,530,nan,"National University of Ireland, Galway"
+483,"Business Studies (International Hotel Management, interview)",GY261,497,nan,"National University of Ireland, Galway"
+484,"Commerce (International Hotel Management, interview)",GY262,681,nan,"National University of Ireland, Galway"
+485,Science,GY301,433,432,"National University of Ireland, Galway"
+486,Biomedical Science,GY303,556,nan,"National University of Ireland, Galway"
+487,Biotechnology,GY304,465,nan,"National University of Ireland, Galway"
+488,Environmental Science,GY308,408,nan,"National University of Ireland, Galway"
+489,Financial Mathematics and Economics,GY309,487,nan,"National University of Ireland, Galway"
+490,Marine Science,GY310,419,nan,"National University of Ireland, Galway"
+491,Environmental Health and Safety,GY313,412,nan,"National University of Ireland, Galway"
+492,Earth and Ocean Sciences,GY314,403,nan,"National University of Ireland, Galway"
+493,Biopharmaceutical Chemistry,GY318,509,nan,"National University of Ireland, Galway"
+494,Mathematical Science,GY319,476,nan,"National University of Ireland, Galway"
+495,"Physics (Degree options: Applied,Astrophysics,Biomedical,Theoretical)",GY320,402,nan,"National University of Ireland, Galway"
+496,Genetics and Genomics,GY321,508,nan,"National University of Ireland, Galway"
+497,Computer Science and Information Technology,GY350,403,nan,"National University of Ireland, Galway"
+498,Engineering (Undenominated),GY401,465,nan,"National University of Ireland, Galway"
+499,Civil Engineering,GY402,455,nan,"National University of Ireland, Galway"
+500,Mechanical Engineering,GY405,454,nan,"National University of Ireland, Galway"
+501,Electronic and Computer Engineering,GY406,510,nan,"National University of Ireland, Galway"
+502,Biomedical Engineering,GY408,509,nan,"National University of Ireland, Galway"
+503,Project and Construction Management,GY410,403,nan,"National University of Ireland, Galway"
+504,Energy Systems Engineering,GY413,502,nan,"National University of Ireland, Galway"
+505,Electrical and Electronic Engineering,GY414,405,nan,"National University of Ireland, Galway"
+506,"Medicine (five year/six year course, HPAT required)",GY501,728,nan,"National University of Ireland, Galway"
+507,Occupational Therapy,GY502,555,nan,"National University of Ireland, Galway"
+508,Speech and Language Therapy,GY503,543,nan,"National University of Ireland, Galway"
+509,Podiatric Medicine,GY504,443,nan,"National University of Ireland, Galway"
+510,General Nursing (Galway and Portiuncula),GY515,476,473,"National University of Ireland, Galway"
+511,Mental Health Nursing,GY516,440,nan,"National University of Ireland, Galway"
+512,Midwifery,GY517,495,nan,"National University of Ireland, Galway"
+513,Accounting and Finance,ID001,203,nan,ICD Business School
+514,Business Studies,ID002,294,nan,ICD Business School
+515,"Art and Design (Common Entry, portfolio)",LC110,740,nan,Limerick Institute of Technology
+516,Fashion and Textiles for Product and Costume (portfolio),LC114,880,nan,Limerick Institute of Technology
+517,Art and Design Teacher Education (portfolio),LC115,942,nan,Limerick Institute of Technology
+518,Digital Marketing,LC220,262,nan,Limerick Institute of Technology
+519,Law and Taxation,LC223,307,nan,Limerick Institute of Technology
+520,Accounting and Finance,LC224,300,nan,Limerick Institute of Technology
+521,Marketing and Management,LC225,298,nan,Limerick Institute of Technology
+522,Enterprise and Innovation,LC226,234,234,Limerick Institute of Technology
+523,Software Development,LC233,272,nan,Limerick Institute of Technology
+524,Interactive Digital Media,LC234,225,nan,Limerick Institute of Technology
+525,Internet Systems Development,LC236,262,260,Limerick Institute of Technology
+526,Computer Networks and Systems Management,LC239,307,nan,Limerick Institute of Technology
+527,Construction Management,LC241,255,nan,Limerick Institute of Technology
+528,Property Valuation and Management,LC242,282,nan,Limerick Institute of Technology
+529,Quantity Surveying,LC243,294,nan,Limerick Institute of Technology
+530,Built Environment (Common Entry),LC248,288,nan,Limerick Institute of Technology
+531,Civil Engineering Management,LC252,270,nan,Limerick Institute of Technology
+532,Clinical Technology,LC263,294,nan,Limerick Institute of Technology
+533,Forensic and Pharmaceutical Sciences,LC265,413,nan,Limerick Institute of Technology
+534,Drug and Medicinal Product Analysis,LC266,262,nan,Limerick Institute of Technology
+535,Electrical Engineering,LC275,298,nan,Limerick Institute of Technology
+536,Mechanical Engineering,LC288,347,346,Limerick Institute of Technology
+537,Precision Engineering,LC289,291,nan,Limerick Institute of Technology
+538,Social Care Work,LC292,367,nan,Limerick Institute of Technology
+539,Business Studies with Travel and Tourism Management,LC293,307,nan,Limerick Institute of Technology
+540,Business Studies with Event Management,LC294,279,nan,Limerick Institute of Technology
+541,Business Studies with Sports Management,LC295,252,nan,Limerick Institute of Technology
+542,Community Development,LC297,235,nan,Limerick Institute of Technology
+543,Business,LC320,346,nan,Limerick Institute of Technology
+544,Business with Computing,LC330,297,nan,Limerick Institute of Technology
+545,Interior Design,LC340,350,nan,Limerick Institute of Technology
+546,Biotechnology and Biopharmaceutical Sciences,LC362,413,nan,Limerick Institute of Technology
+547,Creative Broadcast and Film Production,LC371,309,nan,Limerick Institute of Technology
+548,Music Technology and Production,LC372,325,nan,Limerick Institute of Technology
+549,Renewable and Electrical Energy Engineering,LC374,318,nan,Limerick Institute of Technology
+550,Industrial Automation and Robotic Systems,LC375,317,nan,Limerick Institute of Technology
+551,Electronic Engineering,LC376,318,nan,Limerick Institute of Technology
+552,Automotive Engineering and Transport Management,LC380,303,298,Limerick Institute of Technology
+553,Business Studies in Beauty and Spa Management,LC392,236,nan,Limerick Institute of Technology
+554,Early Childhood Education and Care,LC393,236,nan,Limerick Institute of Technology
+555,Early Childhood Education and Care,LC401,297,nan,Limerick Institute of Technology
+556,Social Care Work,LC402,225,nan,Limerick Institute of Technology
+557,Environmental Science and Climate,LC408,279,nan,Limerick Institute of Technology
+558,Data Analytics and Cyber Security,LC414,236,nan,Limerick Institute of Technology
+559,Business,LC416,274,nan,Limerick Institute of Technology
+560,Computing - Games Design and Development,LC418,270,nan,Limerick Institute of Technology
+561,Sports Strength and Conditioning,LC422,298,nan,Limerick Institute of Technology
+562,Environmental Science and Agriculture,LC434,297,nan,Limerick Institute of Technology
+563,Game Art and Design (portfolio),LC502,852,nan,Limerick Institute of Technology
+564,Creative Media and Design,LC517,234,nan,Limerick Institute of Technology
+565,Digital Animation Production (portfolio),LC518,808,nan,Limerick Institute of Technology
+566,Social Care Work,LC612,320,nan,Limerick Institute of Technology
+567,Early Childhood Education and Care,LC613,242,nan,Limerick Institute of Technology
+568,Arts,LM002,348,nan,University of Limerick
+569,Law and Accounting,LM020,465,nan,University of Limerick
+570,Performing Arts (audition required),LM026,303,nan,University of Limerick
+571,Criminal Justice,LM028,418,nan,University of Limerick
+572,Law Plus,LM029,490,nan,University of Limerick
+573,Psychology and Sociology,LM038,500,nan,University of Limerick
+574,Journalism and Digital Communication,LM039,402,nan,University of Limerick
+575,European Studies,LM040,369,nan,University of Limerick
+576,Applied Languages,LM044,442,nan,University of Limerick
+577,Business Studies (options),LM050,431,nan,University of Limerick
+578,International Business,LM056,528,nan,University of Limerick
+579,Financial Mathematics,LM058,403,nan,University of Limerick
+580,Technology Management,LM063,379,nan,University of Limerick
+581,Food Science and Health,LM068,421,nan,University of Limerick
+582,Product Design and Technology (portfolio required),LM076,408,nan,University of Limerick
+583,Aeronautical Engineering,LM077,520,nan,University of Limerick
+584,Construction Management and Engineering,LM082,398,nan,University of Limerick
+585,Sport and Exercise Sciences,LM089,474,nan,University of Limerick
+586,Physical Education with concurrent Teacher Education,LM090,532,nan,University of Limerick
+587,Languages with concurrent Teacher Education,LM091,517,nan,University of Limerick
+588,Science with Teacher Ed (Biology with Physics/Chemistry/Ag Science),LM092,507,nan,University of Limerick
+589,Equine Science,LM093,339,nan,University of Limerick
+590,Materials and Architectural Technology with concurrent Teacher Education,LM094,440,nan,University of Limerick
+591,Materials and Engineering Technology with concurrent Teacher Education,LM095,367,nan,University of Limerick
+592,Science with Teacher Ed (Physical Sciences with Chemistry and Physics),LM096,405,nan,University of Limerick
+593,Mathematics and Computer Science with concurrent Teacher Education,LM097,402,nan,University of Limerick
+594,Architecture (portfolio requirement suspended),LM099,498,nan,University of Limerick
+595,Physiotherapy,LM100,589,nan,University of Limerick
+596,Medicine  - Graduate Entry (GAMSAT required),LM101,55,nan,University of Limerick
+597,Psychology,LM102,509,nan,University of Limerick
+598,Paramedic Studies (B/C1/C1 Provisional Drivers Licence),LM103,392,nan,University of Limerick
+599,Chemical and Biochemical Engineering,LM115,454,nan,University of Limerick
+600,Engineering (Biomedical/Civil/Design and Manufacture/Mechanical),LM116,476,nan,University of Limerick
+601,Electronic and Computer Engineering,LM118,403,nan,University of Limerick
+602,Computer Science (Computer Systems/Games Dev/Mobile Comm Security),LM121,351,nan,University of Limerick
+603,Creative Media and Interaction Design (Digital Design/Music Media Tech),LM122,327,nan,University of Limerick
+604,Biological & Chemical Sciences (Biosci/Envir Sci/Ind Bio/IndPharma Chem),LM123,441,nan,University of Limerick
+605,Mathematics (Math Science/Maths and Physics/Economics and Maths),LM124,437,nan,University of Limerick
+606,Physics (Applied Physics or Mathematics & Physics),LM125,404,nan,University of Limerick
+607,General Nursing,LM150,475,nan,University of Limerick
+608,Mental Health Nursing,LM152,419,nan,University of Limerick
+609,Intellectual Disability Nursing,LM154,420,nan,University of Limerick
+610,Midwifery,LM156,469,nan,University of Limerick
+611,Business - Accounting,LY108,309,nan,Letterkenny Institute of Technology
+612,Business,LY118,290,nan,Letterkenny Institute of Technology
+613,Law,LY208,300,nan,Letterkenny Institute of Technology
+614,Sports and Exercise - Common Entry,LY228,300,nan,Letterkenny Institute of Technology
+615,Design - Common Entry,LY408,320,nan,Letterkenny Institute of Technology
+616,Fire Safety Engineering,LY508,276,nan,Letterkenny Institute of Technology
+617,Quantity Surveying,LY518,301,nan,Letterkenny Institute of Technology
+618,Construction Management,LY528,271,nan,Letterkenny Institute of Technology
+619,Mechanical Engineering,LY608,300,nan,Letterkenny Institute of Technology
+620,Electronic Engineering,LY618,312,nan,Letterkenny Institute of Technology
+621,Applied Computing,LY708,306,nan,Letterkenny Institute of Technology
+622,Computer Science,LY748,317,317,Letterkenny Institute of Technology
+623,Science - Common Entry,LY818,303,nan,Letterkenny Institute of Technology
+624,Agriculture - Common Entry,LY828,307,nan,Letterkenny Institute of Technology
+625,General Nursing,LY908,400,nan,Letterkenny Institute of Technology
+626,Psychiatric Nursing,LY918,357,nan,Letterkenny Institute of Technology
+627,Intellectual Disability Nursing,LY928,326,nan,Letterkenny Institute of Technology
+628,"Early Childhood Care, Health and Education",LY968,303,nan,Letterkenny Institute of Technology
+629,Health & Social Care - Common Entry,LY978,280,nan,Letterkenny Institute of Technology
+630,Education - Primary Teaching (Froebel),MH001,507,nan,Maynooth University
+631,Education - Primary Teaching - Gaeltacht Applicants (Froebel),MH002,nan,nan,Maynooth University
+632,Arts,MH101,318,nan,Maynooth University
+633,Music,MH103,,nan,Maynooth University
+634,Psychology - 3 years,MH106,521,nan,Maynooth University
+635,Social Science,MH107,346,nan,Maynooth University
+636,Media Studies,MH109,316,nan,Maynooth University
+637,Community and Youth Work (Full-Time),MH116,,nan,Maynooth University
+638,Science,MH201,360,nan,Maynooth University
+639,Biotechnology,MH202,455,nan,Maynooth University
+640,Biological and Geographical Sciences,MH203,430,nan,Maynooth University
+641,Physics with Astrophysics,MH204,422,nan,Maynooth University
+642,Theoretical Physics and Mathematics,MH206,510,nan,Maynooth University
+643,Data Science,MH207,445,nan,Maynooth University
+644,Biological and Biomedical Sciences,MH208,498,nan,Maynooth University
+645,Psychology (through Science) - 4 years,MH209,498,nan,Maynooth University
+646,Pharmaceutical and Biomedical Chemistry,MH210,487,nan,Maynooth University
+647,Science or Maths & Computer Science or Maths & Applied Maths (with Ed),MH212,422,nan,Maynooth University
+648,Engineering (Computer/Electronic/Communications),MH304,333,333,Maynooth University
+649,Product Design,MH305,357,nan,Maynooth University
+650,Robotics and Intelligent Devices,MH306,361,nan,Maynooth University
+651,Finance (options),MH401,357,nan,Maynooth University
+652,Quantitative Finance,MH402,476,nan,Maynooth University
+653,Accounting and Finance,MH403,422,nan,Maynooth University
+654,Business (options),MH404,430,nan,Maynooth University
+655,Equine Business,MH405,357,nan,Maynooth University
+656,Business and Accounting,MH407,420,nan,Maynooth University
+657,Entrepreneurship,MH411,371,nan,Maynooth University
+658,LLB Law - four year Single Major Law programme,MH501,473,nan,Maynooth University
+659,Law (options),MH502,451,nan,Maynooth University
+660,Computer Science through Arts (options),MH601,352,nan,Maynooth University
+661,Computer Science through Science (options),MH602,351,nan,Maynooth University
+662,Computational Thinking,MH603,532,nan,Maynooth University
+663,Early Childhood - Teaching and Learning (part-time),MH801,327,nan,Maynooth University
+664,"Community and Youth Work (part-time, in service)",MH802,,,Maynooth University
+665,"Local Studies/Community Studies (part-time, evening) - Mature Students",MH803,,,Maynooth University
+666,Contemporary & Applied Theatre Studies,MI001,375,nan,Mary Immaculate College
+667,Arts,MI002,300,281,Mary Immaculate College
+668,Education - Primary Teaching - International,MI004,577,nan,Mary Immaculate College
+669,Education - Primary Teaching,MI005,495,nan,Mary Immaculate College
+670,Education - Primary Teaching - Gaeltacht Applicants,MI006,456,nan,Mary Immaculate College
+671,Early Childhood Care and Education,MI007,357,nan,Mary Immaculate College
+672,Education and Psychology - Primary Teaching,MI008,588,nan,Mary Immaculate College
+673,"Education, Business Studies and Accounting",MI009,402,nan,Mary Immaculate College
+674,"Education, Business Studies and Religious Studies",MI010,368,nan,Mary Immaculate College
+675,"Education, Gaeilge and Religious Studies",MI011,409,nan,Mary Immaculate College
+676,"Education, Gaeilge and Business Studies",MI012,401,nan,Mary Immaculate College
+677,"Education, Mathematics and Gaeilge",MI013,444,nan,Mary Immaculate College
+678,"Education, Mathematics and Business Studies",MI014,434,nan,Mary Immaculate College
+679,Theology and Arts,MU001,290,290,"Pontifical University, St Patrick's College"
+680,Theology,MU002,440,nan,"Pontifical University, St Patrick's College"
+681,Computing (Degree Award options),NC003,260,nan,National College of Ireland (NCI)
+682,Human Resource Management,NC005,300,nan,National College of Ireland (NCI)
+683,Business,NC009,300,nan,National College of Ireland (NCI)
+684,Psychology,NC010,400,nan,National College of Ireland (NCI)
+685,Marketing Practice,NC020,280,nan,National College of Ireland (NCI)
+686,Accounting and Finance,NC022,337,nan,National College of Ireland (NCI)
+687,Technology Management (with specialisations),NC023,261,nan,National College of Ireland (NCI)
+688,Montessori Education,NM801,220,nan,St Nicholas Montessori College Ireland
+689,"Social, Political and Community Studies",PC405,253,216,"Carlow College, St. Patrick`s"
+690,Arts and Humanities (fulfils Teaching Council requirements),PC410,252,209,"Carlow College, St. Patrick`s"
+691,English and History (fulfils Teaching Council requirements),PC411,255,209,"Carlow College, St. Patrick`s"
+692,Medicine - Undergraduate Entry (HPAT required),RC001,733,nan,RCSI University of Medicine & Health Sciences
+693,Physiotherapy,RC004,566,nan,RCSI University of Medicine & Health Sciences
+694,Pharmacy,RC005,579,nan,RCSI University of Medicine & Health Sciences
+695,Medicine - Graduate Entry (GAMSAT required),RC101,nan,nan,RCSI University of Medicine & Health Sciences
+696,Business,SG141,261,nan,"Institute of Technology, Sligo"
+697,Business in International Marketing and Languages (French),SG142,279,nan,"Institute of Technology, Sligo"
+698,Business in International Marketing and Languages (Spanish),SG144,270,nan,"Institute of Technology, Sligo"
+699,Accounting,SG146,309,nan,"Institute of Technology, Sligo"
+700,Sport with Business,SG147,307,nan,"Institute of Technology, Sligo"
+701,Tourism with Event Management,SG148,269,nan,"Institute of Technology, Sligo"
+702,Performing Arts,SG241,328,nan,"Institute of Technology, Sligo"
+703,Early Childhood Care and Education,SG242,279,nan,"Institute of Technology, Sligo"
+704,Social Care Practice,SG243,301,nan,"Institute of Technology, Sligo"
+705,Fine Art,SG244,505,nan,"Institute of Technology, Sligo"
+706,Creative Design,SG245,282,nan,"Institute of Technology, Sligo"
+707,Computing,SG246,290,nan,"Institute of Technology, Sligo"
+708,English and Psychology,SG247,309,nan,"Institute of Technology, Sligo"
+709,Sociology and Politics,SG248,281,nan,"Institute of Technology, Sligo"
+710,Writing and Literature,SG249,297,nan,"Institute of Technology, Sligo"
+711,Application Design and User Experience,SG250,412,nan,"Institute of Technology, Sligo"
+712,Computing (Smart Technologies),SG251,327,nan,"Institute of Technology, Sligo"
+713,Software Development,SG252,307,nan,"Institute of Technology, Sligo"
+714,Computer Networks and Cloud Infrastructure,SG253,324,nan,"Institute of Technology, Sligo"
+715,Writing and Literature Online,SG254,225,225,"Institute of Technology, Sligo"
+716,Civil Engineering,SG342,415,nan,"Institute of Technology, Sligo"
+717,Quantity Surveying,SG343,311,nan,"Institute of Technology, Sligo"
+718,Construction Project Management and Applied Technology,SG346,291,nan,"Institute of Technology, Sligo"
+719,Architecture,SG347,360,nan,"Institute of Technology, Sligo"
+720,Interior Architecture and Design,SG348,316,nan,"Institute of Technology, Sligo"
+721,Occupational Safety and Health,SG442,290,nan,"Institute of Technology, Sligo"
+722,Human Nutrition,SG443,356,nan,"Institute of Technology, Sligo"
+723,Science Undenominated,SG444,338,nan,"Institute of Technology, Sligo"
+724,Pharmaceutical Science with Drug Development,SG445,311,nan,"Institute of Technology, Sligo"
+725,Health Science and Physical Activity,SG447,328,nan,"Institute of Technology, Sligo"
+726,Forensic Investigation and Analysis,SG448,306,nan,"Institute of Technology, Sligo"
+727,Medical Biotechnology,SG449,341,nan,"Institute of Technology, Sligo"
+728,Environmental Science with Ecology (Level 8),SG450,300,nan,"Institute of Technology, Sligo"
+729,"Animation, Visual Effects and Motion Design (Level 8)",TL801,281,nan,"Institute of Technology, Tralee"
+730,"TV, Radio and New Media (Level 8)",TL802,325,nan,"Institute of Technology, Tralee"
+731,Computing with Software Development,TL810,310,nan,"Institute of Technology, Tralee"
+732,Computing with Games Development,TL811,358,nan,"Institute of Technology, Tralee"
+733,Computing (Degree Award options),TL815,308,nan,"Institute of Technology, Tralee"
+734,Event Management (3 year programme),TL823,299,nan,"Institute of Technology, Tralee"
+735,Business Studies (Major Specialism in: Acctng or Mktg or Mgmnt),TL831,306,nan,"Institute of Technology, Tralee"
+736,Agricultural Engineering,TL844,300,nan,"Institute of Technology, Tralee"
+737,Civil Engineering,TL845,325,nan,"Institute of Technology, Tralee"
+738,Manufacturing Engineering,TL847,302,nan,"Institute of Technology, Tralee"
+739,Agricultural Science,TL848,308,nan,"Institute of Technology, Tralee"
+740,Wildlife Biology (Degree Award options),TL851,309,nan,"Institute of Technology, Tralee"
+741,Pharmaceutical Science (Degree Award options),TL855,317,nan,"Institute of Technology, Tralee"
+742,Veterinary Bioscience,TL858,308,nan,"Institute of Technology, Tralee"
+743,Health and Leisure (Degree Award options),TL871,300,nan,"Institute of Technology, Tralee"
+744,Health and Leisure with Massage,TL872,309,nan,"Institute of Technology, Tralee"
+745,Coaching and Sports Performance,TL873,289,nan,"Institute of Technology, Tralee"
+746,Early Childhood Care and Education,TL880,307,nan,"Institute of Technology, Tralee"
+747,Social Care,TL881,308,nan,"Institute of Technology, Tralee"
+748,Counselling with Addiction - Mature applicants only,TL889,nan,nan,"Institute of Technology, Tralee"
+749,General Nursing and Mature Applicants,TL890,440,414,"Institute of Technology, Tralee"
+750,Mental Health Nursing and Mature Applicants,TL891,389,378,"Institute of Technology, Tralee"
+751,Music,TR002,435,429,Trinity College Dublin
+752,History,TR003,497,493,Trinity College Dublin
+753,Law,TR004,566,565,Trinity College Dublin
+754,Philosophy,TR005,442,nan,Trinity College Dublin
+755,Psychology,TR006,567,555,Trinity College Dublin
+756,Clinical Speech and Language Studies,TR007,529,nan,Trinity College Dublin
+757,Music Education,TR009,420,nan,Trinity College Dublin
+758,History and Political Science,TR012,555,554,Trinity College Dublin
+759,"Philosophy, Political Science, Economics and Sociology",TR015,589,nan,Trinity College Dublin
+760,Deaf Studies,TR016,340,nan,Trinity College Dublin
+761,Law and Business,TR017,602,nan,Trinity College Dublin
+762,Law and French,TR018,565,nan,Trinity College Dublin
+763,Law and German,TR019,543,542,Trinity College Dublin
+764,Law and Political Science,TR020,602,nan,Trinity College Dublin
+765,"Classics, Ancient History and Archaeology",TR021,370,nan,Trinity College Dublin
+766,Early and Modern Irish,TR022,398,nan,Trinity College Dublin
+767,English Studies,TR023,487,476,Trinity College Dublin
+768,European Studies,TR024,544,542,Trinity College Dublin
+769,Drama and Theatre Studies,TR025,564,530,Trinity College Dublin
+770,Ancient and Medieval History and Culture,TR028,342,nan,Trinity College Dublin
+771,Political Science and Geography,TR029,526,520,Trinity College Dublin
+772,Mathematics,TR031,531,nan,Trinity College Dublin
+773,Engineering,TR032,510,509,Trinity College Dublin
+774,Computer Science,TR033,509,nan,Trinity College Dublin
+775,Management Science and Information Systems Studies,TR034,613,nan,Trinity College Dublin
+776,Theoretical Physics,TR035,543,nan,Trinity College Dublin
+777,Engineering with Management,TR038,532,nan,Trinity College Dublin
+778,Computer Science and Language,TR039,454,424,Trinity College Dublin
+779,Middle Eastern and European Languages and Cultures,TR040,466,nan,Trinity College Dublin
+780,Religion,TR041,368,nan,Trinity College Dublin
+781,Film,TR042,489,476,Trinity College Dublin
+782,History of Art and Architecture,TR043,393,354,Trinity College Dublin
+783,Medicine (HPAT required),TR051,735,734,Trinity College Dublin
+784,Dental Science,TR052,613,613,Trinity College Dublin
+785,Physiotherapy,TR053,566,566,Trinity College Dublin
+786,Occupational Therapy,TR054,533,nan,Trinity College Dublin
+787,Radiation Therapy,TR055,543,nan,Trinity College Dublin
+788,Human Health and Disease,TR056,565,nan,Trinity College Dublin
+789,Biological and Biomedical Sciences,TR060,543,543,Trinity College Dublin
+790,Chemical Sciences,TR061,517,510,Trinity College Dublin
+791,Geography and Geoscience,TR062,473,nan,Trinity College Dublin
+792,Physical Sciences,TR063,498,498,Trinity College Dublin
+793,Pharmacy,TR072,590,nan,Trinity College Dublin
+794,Global Business,TR080,589,nan,Trinity College Dublin
+795,"Business, Economic and Social Studies (BESS)",TR081,543,543,Trinity College Dublin
+796,Computer Science and Business,TR082,555,nan,Trinity College Dublin
+797,Sociology and Social Policy,TR083,498,487,Trinity College Dublin
+798,Social Studies (Social Work),TR084,462,nan,Trinity College Dublin
+799,Business Studies and French,TR085,540,531,Trinity College Dublin
+800,Business Studies and German,TR086,509,499,Trinity College Dublin
+801,Business Studies and Russian,TR087,474,465,Trinity College Dublin
+802,Business Studies and Polish,TR089,444,424,Trinity College Dublin
+803,Business Studies and Spanish,TR090,531,nan,Trinity College Dublin
+804,General Nursing (Meath and St James`s),TR091,429,nan,Trinity College Dublin
+805,General Nursing (Adelaide School of Nursing),TR093,430,429,Trinity College Dublin
+806,Mental Health Nursing,TR095,408,nan,Trinity College Dublin
+807,Intellectual Disability Nursing,TR097,396,nan,Trinity College Dublin
+808,Ancient History and Archaeology/Geography,TR111,352,nan,Trinity College Dublin
+809,Ancient History and Archaeology/History,TR112,529,nan,Trinity College Dublin
+810,Ancient History and Archaeology/History of Art and Architecture,TR113,337,nan,Trinity College Dublin
+811,Ancient History and Archaeology/Modern Language,TR114,337,nan,Trinity College Dublin
+812,Ancient History and Archaeology/Religion,TR117,342,nan,Trinity College Dublin
+813,Classical Civilisation/English Literature,TR166,498,496,Trinity College Dublin
+814,Classical Civilisation/History of Art and Architecture,TR173,335,nan,Trinity College Dublin
+815,Classical Civilisation/Modern Language,TR177,335,nan,Trinity College Dublin
+816,Classical Civilisation/Philosophy,TR179,499,nan,Trinity College Dublin
+817,Economics/Geography,TR198,534,nan,Trinity College Dublin
+818,Economics/History,TR202,534,nan,Trinity College Dublin
+819,Economics/Mathematics,TR207,566,nan,Trinity College Dublin
+820,Economics/Modern Language,TR208,534,nan,Trinity College Dublin
+821,Economics/Philosophy,TR209,534,nan,Trinity College Dublin
+822,Economics/Sociology,TR212,534,nan,Trinity College Dublin
+823,Classical Languages/English Literature,TR228,498,nan,Trinity College Dublin
+824,Classical Languages/History of Art and Architecture,TR231,349,nan,Trinity College Dublin
+825,"Classical Languages/Middle Eastern,Jewish and Islamic Civilisations",TR233,349,nan,Trinity College Dublin
+826,Classical Languages/Modern Language,TR239,349,nan,Trinity College Dublin
+827,English Literature/History,TR262,529,nan,Trinity College Dublin
+828,English Literature/History of Art and Architecture,TR263,498,497,Trinity College Dublin
+829,English Literature/Philosophy,TR269,499,nan,Trinity College Dublin
+830,English Literature/Sociology,TR272,498,nan,Trinity College Dublin
+831,English Literature/Drama Studies,TR276,498,nan,Trinity College Dublin
+832,English Literature/Modern Language,TR277,498,495,Trinity College Dublin
+833,Film/Drama Studies,TR311,521,nan,Trinity College Dublin
+834,Film/English Literature,TR312,521,nan,Trinity College Dublin
+835,Film/Music,TR320,521,nan,Trinity College Dublin
+836,Geography/History,TR322,529,nan,Trinity College Dublin
+837,Drama Studies/Modern Language,TR323,473,nan,Trinity College Dublin
+838,Film/Modern Language,TR324,521,nan,Trinity College Dublin
+839,Film/History,TR325,529,nan,Trinity College Dublin
+840,Geography/Modern Language,TR326,352,nan,Trinity College Dublin
+841,Geography/Sociology,TR332,498,496,Trinity College Dublin
+842,History/History of Art and Architecture,TR443,529,nan,Trinity College Dublin
+843,History/Modern Language,TR447,529,nan,Trinity College Dublin
+844,History/Philosophy,TR449,529,nan,Trinity College Dublin
+845,History/Sociology,TR452,529,nan,Trinity College Dublin
+846,History/Religion,TR454,529,nan,Trinity College Dublin
+847,History of Art and Architecture/Modern Language,TR455,334,nan,Trinity College Dublin
+848,History of Art and Architecture/Philosophy,TR479,499,nan,Trinity College Dublin
+849,"Middle Eastern,Jewish and Islamic Civ./Ancient History and Archaeology",TR547,337,nan,Trinity College Dublin
+850,"Middle Eastern,Jewish and Islamic Civilisations/Classical Civilisation",TR548,335,nan,Trinity College Dublin
+851,"Middle Eastern,Jewish and Islamic Civilisations/History",TR554,529,nan,Trinity College Dublin
+852,"Middle Eastern,Jewish and Islamic Civilisations/Modern Language",TR563,335,nan,Trinity College Dublin
+853,"Middle Eastern,Jewish and Islamic Civilisations/Music",TR564,nan,nan,Trinity College Dublin
+854,"Middle Eastern,Jewish and Islamic Civilisations/Religion",TR565,342,nan,Trinity College Dublin
+855,Mathematics/Modern Language,TR597,566,nan,Trinity College Dublin
+856,Mathematics/Music,TR598,566,nan,Trinity College Dublin
+857,Mathematics/Philosophy,TR599,566,nan,Trinity College Dublin
+858,Music/Philosophy,TR629,499,nan,Trinity College Dublin
+859,Music/Drama Studies,TR635,473,nan,Trinity College Dublin
+860,Music/Modern Language,TR636,388,nan,Trinity College Dublin
+861,Music/Religion,TR638,388,nan,Trinity College Dublin
+862,Philosophy/Modern Language,TR639,499,nan,Trinity College Dublin
+863,Philosophy/Sociology,TR662,499,nan,Trinity College Dublin
+864,Religion/Classical Civilisation,TR663,342,nan,Trinity College Dublin
+865,Religion/English Literature,TR664,498,nan,Trinity College Dublin
+866,Religion/History of Art and Architecture,TR665,342,nan,Trinity College Dublin
+867,Religion/Modern Language,TR666,nan,nan,Trinity College Dublin
+868,French/Modern Language,TR667,403,nan,Trinity College Dublin
+869,German/Modern Language,TR668,389,nan,Trinity College Dublin
+870,Irish/Modern Language,TR669,368,nan,Trinity College Dublin
+871,Italian/Modern Language,TR670,381,nan,Trinity College Dublin
+872,Russian/Modern Language,TR671,332,nan,Trinity College Dublin
+873,Spanish/Modern Language,TR672,336,nan,Trinity College Dublin
+874,Sociology/Drama Studies,TR755,498,nan,Trinity College Dublin
+875,Sociology/Modern Language,TR756,498,495,Trinity College Dublin
+876,Children`s and General Nursing (Integrated),TR911,511,510,Trinity College Dublin
+877,Midwifery,TR913,478,477,Trinity College Dublin
+878,Biomedical Design,TU801,235,nan,Technological University Dublin
+879,Electrical Services and Energy Management,TU802,317,300,Technological University Dublin
+880,Electronic Engineering,TU803,243,243,Technological University Dublin
+881,Engineering (Common Entry with Award options),TU804,271,nan,Technological University Dublin
+882,Engineering (General Entry),TU805,402,nan,Technological University Dublin
+883,Sustainable Energy Engineering,TU806,262,nan,Technological University Dublin
+884,Computer Engineering in Mobile Systems,TU807,276,nan,Technological University Dublin
+885,Engineering Software,TU808,260,260,Technological University Dublin
+886,Mechanical Engineering,TU809,235,nan,Technological University Dublin
+887,Mechatronic Engineering,TU810,270,nan,Technological University Dublin
+888,Product Design,TU811,411,nan,Technological University Dublin
+889,"Design,Technology and Innovation",TU812,270,nan,Technological University Dublin
+890,Automation Engineering,TU813,218,218,Technological University Dublin
+891,Transport Operations and Technology,TU814,285,251,Technological University Dublin
+892,Architectural Technology,TU831,410,nan,Technological University Dublin
+893,Architecture (Suitability Test and Interview),TU832,622,nan,Technological University Dublin
+894,Construction Management,TU833,367,nan,Technological University Dublin
+895,Geographic Science,TU834,288,nan,Technological University Dublin
+896,Planning and Environmental Management,TU835,313,nan,Technological University Dublin
+897,Property Economics (Valuation Surveying),TU836,401,nan,Technological University Dublin
+898,Quantity Surveying and Construction Economics,TU837,385,nan,Technological University Dublin
+899,Analytical Chemistry (Environmental Forensic and Pharmaceutical),TU851,349,nan,Technological University Dublin
+900,Chemical Sciences with Medicinal Chemistry,TU852,476,nan,Technological University Dublin
+901,Science (General Entry),TU854,476,nan,Technological University Dublin
+902,Science with Nanotechnology,TU855,331,319,Technological University Dublin
+903,Computer Science,TU856,476,nan,Technological University Dublin
+904,Computer Science (Infrastructure),TU857,391,nan,Technological University Dublin
+905,Computer Science (International),TU858,377,nan,Technological University Dublin
+906,Computing,TU859,217,234,Technological University Dublin
+907,Computing (Information Technology),TU860,260,nan,Technological University Dublin
+908,Computing with Language (French/German/Spanish),TU861,308,308,Technological University Dublin
+909,Computing with Data Analytics,TU862,226,226,Technological University Dublin
+910,Digital Forensics and Cyber Security,TU863,280,nan,Technological University Dublin
+911,DNA and Forensic Analysis,TU864,400,390,Technological University Dublin
+912,Computing with IT Management,TU865,226,nan,Technological University Dublin
+913,Biomedical and Molecular Diagnostics,TU866,487,nan,Technological University Dublin
+914,Biomedical Science,TU867,524,nan,Technological University Dublin
+915,Clinical Measurement Science,TU868,510,nan,Technological University Dublin
+916,Environmental Health,TU869,336,nan,Technological University Dublin
+917,Human Nutrition and Dietetics,TU870,578,nan,Technological University Dublin
+918,Optometry,TU871,509,nan,Technological University Dublin
+919,Public Health Nutrition,TU872,491,nan,Technological University Dublin
+920,Industrial Mathematics,TU873,250,250,Technological University Dublin
+921,Mathematical Sciences,TU874,341,nan,Technological University Dublin
+922,Pharmaceutical Healthcare,TU875,400,nan,Technological University Dublin
+923,Pharmaceutical Science,TU876,377,349,Technological University Dublin
+924,Physics Technology,TU877,308,nan,Technological University Dublin
+925,Physics with Energy and Environment,TU878,337,337,Technological University Dublin
+926,Physics with Medical Physics and Bioengineering,TU879,351,nan,Technological University Dublin
+927,Physics with Data Science,TU880,578,nan,Technological University Dublin
+928,Food Innovation,TU881,318,nan,Technological University Dublin
+929,Nutraceuticals in Health and Nutrition,TU882,397,nan,Technological University Dublin
+930,Business,TU901,270,nan,Technological University Dublin
+931,Business (Common Entry with Award options),TU902,271,nan,Technological University Dublin
+932,Business and Management,TU903,463,nan,Technological University Dublin
+933,Business and Law,TU904,462,nan,Technological University Dublin
+934,Economics and Finance,TU905,465,nan,Technological University Dublin
+935,Human Resource Management,TU906,395,nan,Technological University Dublin
+936,Logistics and Supply Chain Management,TU907,300,nan,Technological University Dublin
+937,Management,TU908,262,253,Technological University Dublin
+938,Accounting and Finance,TU909,285,nan,Technological University Dublin
+939,Accounting and Finance,TU910,444,nan,Technological University Dublin
+940,Accounting and Finance,TU911,209,192,Technological University Dublin
+941,Business Analytics,TU912,330,nan,Technological University Dublin
+942,Business and Information Technology,TU913,252,nan,Technological University Dublin
+943,Business Computing,TU914,324,nan,Technological University Dublin
+944,International Business,TU915,252,nan,Technological University Dublin
+945,International Business,TU916,235,235,Technological University Dublin
+946,Law (LLB ) with a Language,TU917,342,nan,Technological University Dublin
+947,Law (LLB),TU918,451,nan,Technological University Dublin
+948,Advertising and Marketing Communications,TU919,228,226,Technological University Dublin
+949,Digital Marketing,TU920,270,nan,Technological University Dublin
+950,Digital Marketing Technologies,TU921,212,212,Technological University Dublin
+951,Marketing,TU922,418,nan,Technological University Dublin
+952,Marketing Management,TU923,228,276,Technological University Dublin
+953,E-Commerce in Retailing,TU924,307,nan,Technological University Dublin
+954,Retail and Services Management,TU925,301,nan,Technological University Dublin
+955,Sports Management and Coaching,TU935,300,nan,Technological University Dublin
+956,Sports Science and Health,TU936,410,391,Technological University Dublin
+957,Botanical Cuisine,TU941,249,nan,Technological University Dublin
+958,Culinary Arts,TU942,212,212,Technological University Dublin
+959,Culinary Entrepreneurship,TU943,278,nan,Technological University Dublin
+960,Culinary Science,TU944,316,nan,Technological University Dublin
+961,International Hospitality and Tourism Management,TU951,184,184,Technological University Dublin
+962,International Hospitality Management,TU952,300,nan,Technological University Dublin
+963,Tourism and Digital Marketing,TU953,290,nan,Technological University Dublin
+964,Event Management,TU954,356,nan,Technological University Dublin
+965,Sports & Leisure Management,TU955,217,317,Technological University Dublin
+966,Commercial Modern Music,TU961,608,608,Technological University Dublin
+967,Drama (Performance),TU962,379,nan,Technological University Dublin
+968,Music,TU963,416,nan,Technological University Dublin
+969,International Business and Languages,TU965,356,346,Technological University Dublin
+970,Languages and English Studies,TU966,366,nan,Technological University Dublin
+971,Languages and International Tourism,TU967,308,nan,Technological University Dublin
+972,Contemporary Visual Culture,TU971,290,nan,Technological University Dublin
+973,Creative and Cultural Industries,TU972,281,nan,Technological University Dublin
+974,Design - Visual Communication,TU973,717,nan,Technological University Dublin
+975,Fine Art,TU974,709,563,Technological University Dublin
+976,Interior Design,TU975,632,nan,Technological University Dublin
+977,Photography,TU976,695,nan,Technological University Dublin
+978,Creative Digital Media,TU981,280,nan,Technological University Dublin
+979,Creative Digital Media,TU982,320,311,Technological University Dublin
+980,Film and Broadcasting,TU983,456,451,Technological University Dublin
+981,Game Design,TU984,381,nan,Technological University Dublin
+982,Journalism,TU985,322,nan,Technological University Dublin
+983,Print Media Technology and Management,TU986,289,nan,Technological University Dublin
+984,Applied Social Studies in Social Care,TU991,325,nan,Technological University Dublin
+985,Community and Youth Development,TU992,251,nan,Technological University Dublin
+986,Early Childhood Care and Education,TU993,270,nan,Technological University Dublin
+987,Early Childhood Care and Education,TU994,321,251,Technological University Dublin
+988,Early Childhood Education,TU995,367,nan,Technological University Dublin
+989,Social Care,TU996,400,nan,Technological University Dublin
+990,Applied Social Care,TU997,310,283,Technological University Dublin
+991,Applied Computing (options),WD001,260,260,Waterford Institute of Technology
+992,Science (options),WD002,308,nan,Waterford Institute of Technology
+993,Health Sciences (options),WD005,280,nan,Waterford Institute of Technology
+994,Exercise Sciences (options),WD006,280,nan,Waterford Institute of Technology
+995,Engineering (options),WD007,288,288,Waterford Institute of Technology
+996,Construction Management and Engineering,WD025,269,nan,Waterford Institute of Technology
+997,Music,WD027,262,nan,Waterford Institute of Technology
+998,Business (options),WD048,271,nan,Waterford Institute of Technology
+999,Accounting,WD084,308,nan,Waterford Institute of Technology
+1000,Hospitality Management,WD091,228,nan,Waterford Institute of Technology
+1001,General Nursing,WD116,422,nan,Waterford Institute of Technology
+1002,Psychiatric Nursing,WD117,366,nan,Waterford Institute of Technology
+1003,Intellectual Disability Nursing,WD120,377,nan,Waterford Institute of Technology
+1004,International Business,WD134,290,nan,Waterford Institute of Technology
+1005,Design (Visual Communications),WD137,271,nan,Waterford Institute of Technology
+1006,Laws,WD140,280,nan,Waterford Institute of Technology
+1007,Architecture,WD144,284,nan,Waterford Institute of Technology
+1008,Pharmaceutical Science,WD147,293,nan,Waterford Institute of Technology
+1009,Early Childhood Studies,WD149,271,nan,Waterford Institute of Technology
+1010,Criminal Justice Studies,WD150,270,nan,Waterford Institute of Technology
+1011,Visual Art,WD152,AQA,nan,Waterford Institute of Technology
+1012,Computer Forensics and Security,WD161,255,nan,Waterford Institute of Technology
+1013,Quantity Surveying,WD162,216,nan,Waterford Institute of Technology
+1014,Psychology,WD163,434,nan,Waterford Institute of Technology
+1015,Sports Coaching and Performance,WD186,270,nan,Waterford Institute of Technology
+1016,Social Science,WD187,272,nan,Waterford Institute of Technology
+1017,Agricultural Science,WD191,377,nan,Waterford Institute of Technology
+1018,Social Care Practice,WD192,270,nan,Waterford Institute of Technology
+1019,Marketing and Digital Media,WD193,271,nan,Waterford Institute of Technology
+1020,Culinary Arts,WD194,217,nan,Waterford Institute of Technology
+1021,Architectural and Building Information Modelling Technology,WD195,279,nan,Waterford Institute of Technology
+1022,Arts (options),WD200,AQA,AQA,Waterford Institute of Technology
+1023,Software Systems Development,WD210,279,nan,Waterford Institute of Technology
+1024,Creative Computing,WD211,271,nan,Waterford Institute of Technology
+1025,Recreation and Sport Management,WD212,270,nan,Waterford Institute of Technology
+1026,Mechanical and Manufacturing Engineering,WD230,253,nan,Waterford Institute of Technology
